@@ -1,0 +1,7782 @@
+[
+    {
+        "className": "fas fa-ad",
+        "name": "ad"
+    },
+    {
+        "className": "fas fa-address-book",
+        "name": "address-book"
+    },
+    {
+        "className": "fas fa-address-card",
+        "name": "address-card"
+    },
+    {
+        "className": "fas fa-adjust",
+        "name": "adjust"
+    },
+    {
+        "className": "fas fa-air-freshener",
+        "name": "air-freshener"
+    },
+    {
+        "className": "fas fa-align-center",
+        "name": "align-center"
+    },
+    {
+        "className": "fas fa-align-justify",
+        "name": "align-justify"
+    },
+    {
+        "className": "fas fa-align-left",
+        "name": "align-left"
+    },
+    {
+        "className": "fas fa-align-right",
+        "name": "align-right"
+    },
+    {
+        "className": "fas fa-allergies",
+        "name": "allergies"
+    },
+    {
+        "className": "fas fa-ambulance",
+        "name": "ambulance"
+    },
+    {
+        "className": "fas fa-american-sign-language-interpreting",
+        "name": "american-sign-language-interpreting"
+    },
+    {
+        "className": "fas fa-anchor",
+        "name": "anchor"
+    },
+    {
+        "className": "fas fa-angle-double-down",
+        "name": "angle-double-down"
+    },
+    {
+        "className": "fas fa-angle-double-left",
+        "name": "angle-double-left"
+    },
+    {
+        "className": "fas fa-angle-double-right",
+        "name": "angle-double-right"
+    },
+    {
+        "className": "fas fa-angle-double-up",
+        "name": "angle-double-up"
+    },
+    {
+        "className": "fas fa-angle-down",
+        "name": "angle-down"
+    },
+    {
+        "className": "fas fa-angle-left",
+        "name": "angle-left"
+    },
+    {
+        "className": "fas fa-angle-right",
+        "name": "angle-right"
+    },
+    {
+        "className": "fas fa-angle-up",
+        "name": "angle-up"
+    },
+    {
+        "className": "fas fa-angry",
+        "name": "angry"
+    },
+    {
+        "className": "fas fa-ankh",
+        "name": "ankh"
+    },
+    {
+        "className": "fas fa-apple-alt",
+        "name": "apple-alt"
+    },
+    {
+        "className": "fas fa-archive",
+        "name": "archive"
+    },
+    {
+        "className": "fas fa-archway",
+        "name": "archway"
+    },
+    {
+        "className": "fas fa-arrow-alt-circle-down",
+        "name": "arrow-alt-circle-down"
+    },
+    {
+        "className": "fas fa-arrow-alt-circle-left",
+        "name": "arrow-alt-circle-left"
+    },
+    {
+        "className": "fas fa-arrow-alt-circle-right",
+        "name": "arrow-alt-circle-right"
+    },
+    {
+        "className": "fas fa-arrow-alt-circle-up",
+        "name": "arrow-alt-circle-up"
+    },
+    {
+        "className": "fas fa-arrow-circle-down",
+        "name": "arrow-circle-down"
+    },
+    {
+        "className": "fas fa-arrow-circle-left",
+        "name": "arrow-circle-left"
+    },
+    {
+        "className": "fas fa-arrow-circle-right",
+        "name": "arrow-circle-right"
+    },
+    {
+        "className": "fas fa-arrow-circle-up",
+        "name": "arrow-circle-up"
+    },
+    {
+        "className": "fas fa-arrow-down",
+        "name": "arrow-down"
+    },
+    {
+        "className": "fas fa-arrow-left",
+        "name": "arrow-left"
+    },
+    {
+        "className": "fas fa-arrow-right",
+        "name": "arrow-right"
+    },
+    {
+        "className": "fas fa-arrow-up",
+        "name": "arrow-up"
+    },
+    {
+        "className": "fas fa-arrows-alt",
+        "name": "arrows-alt"
+    },
+    {
+        "className": "fas fa-arrows-alt-h",
+        "name": "arrows-alt-h"
+    },
+    {
+        "className": "fas fa-arrows-alt-v",
+        "name": "arrows-alt-v"
+    },
+    {
+        "className": "fas fa-assistive-listening-systems",
+        "name": "assistive-listening-systems"
+    },
+    {
+        "className": "fas fa-asterisk",
+        "name": "asterisk"
+    },
+    {
+        "className": "fas fa-at",
+        "name": "at"
+    },
+    {
+        "className": "fas fa-atlas",
+        "name": "atlas"
+    },
+    {
+        "className": "fas fa-atom",
+        "name": "atom"
+    },
+    {
+        "className": "fas fa-audio-description",
+        "name": "audio-description"
+    },
+    {
+        "className": "fas fa-award",
+        "name": "award"
+    },
+    {
+        "className": "fas fa-baby",
+        "name": "baby"
+    },
+    {
+        "className": "fas fa-baby-carriage",
+        "name": "baby-carriage"
+    },
+    {
+        "className": "fas fa-backspace",
+        "name": "backspace"
+    },
+    {
+        "className": "fas fa-backward",
+        "name": "backward"
+    },
+    {
+        "className": "fas fa-bacon",
+        "name": "bacon"
+    },
+    {
+        "className": "fas fa-bacteria",
+        "name": "bacteria"
+    },
+    {
+        "className": "fas fa-bacterium",
+        "name": "bacterium"
+    },
+    {
+        "className": "fas fa-bahai",
+        "name": "bahai"
+    },
+    {
+        "className": "fas fa-balance-scale",
+        "name": "balance-scale"
+    },
+    {
+        "className": "fas fa-balance-scale-left",
+        "name": "balance-scale-left"
+    },
+    {
+        "className": "fas fa-balance-scale-right",
+        "name": "balance-scale-right"
+    },
+    {
+        "className": "fas fa-ban",
+        "name": "ban"
+    },
+    {
+        "className": "fas fa-band-aid",
+        "name": "band-aid"
+    },
+    {
+        "className": "fas fa-barcode",
+        "name": "barcode"
+    },
+    {
+        "className": "fas fa-bars",
+        "name": "bars"
+    },
+    {
+        "className": "fas fa-baseball-ball",
+        "name": "baseball-ball"
+    },
+    {
+        "className": "fas fa-basketball-ball",
+        "name": "basketball-ball"
+    },
+    {
+        "className": "fas fa-bath",
+        "name": "bath"
+    },
+    {
+        "className": "fas fa-battery-empty",
+        "name": "battery-empty"
+    },
+    {
+        "className": "fas fa-battery-full",
+        "name": "battery-full"
+    },
+    {
+        "className": "fas fa-battery-half",
+        "name": "battery-half"
+    },
+    {
+        "className": "fas fa-battery-quarter",
+        "name": "battery-quarter"
+    },
+    {
+        "className": "fas fa-battery-three-quarters",
+        "name": "battery-three-quarters"
+    },
+    {
+        "className": "fas fa-bed",
+        "name": "bed"
+    },
+    {
+        "className": "fas fa-beer",
+        "name": "beer"
+    },
+    {
+        "className": "fas fa-bell",
+        "name": "bell"
+    },
+    {
+        "className": "fas fa-bell-slash",
+        "name": "bell-slash"
+    },
+    {
+        "className": "fas fa-bezier-curve",
+        "name": "bezier-curve"
+    },
+    {
+        "className": "fas fa-bible",
+        "name": "bible"
+    },
+    {
+        "className": "fas fa-bicycle",
+        "name": "bicycle"
+    },
+    {
+        "className": "fas fa-biking",
+        "name": "biking"
+    },
+    {
+        "className": "fas fa-binoculars",
+        "name": "binoculars"
+    },
+    {
+        "className": "fas fa-biohazard",
+        "name": "biohazard"
+    },
+    {
+        "className": "fas fa-birthday-cake",
+        "name": "birthday-cake"
+    },
+    {
+        "className": "fas fa-blender",
+        "name": "blender"
+    },
+    {
+        "className": "fas fa-blender-phone",
+        "name": "blender-phone"
+    },
+    {
+        "className": "fas fa-blind",
+        "name": "blind"
+    },
+    {
+        "className": "fas fa-blog",
+        "name": "blog"
+    },
+    {
+        "className": "fas fa-bold",
+        "name": "bold"
+    },
+    {
+        "className": "fas fa-bolt",
+        "name": "bolt"
+    },
+    {
+        "className": "fas fa-bomb",
+        "name": "bomb"
+    },
+    {
+        "className": "fas fa-bone",
+        "name": "bone"
+    },
+    {
+        "className": "fas fa-bong",
+        "name": "bong"
+    },
+    {
+        "className": "fas fa-book",
+        "name": "book"
+    },
+    {
+        "className": "fas fa-book-dead",
+        "name": "book-dead"
+    },
+    {
+        "className": "fas fa-book-medical",
+        "name": "book-medical"
+    },
+    {
+        "className": "fas fa-book-open",
+        "name": "book-open"
+    },
+    {
+        "className": "fas fa-book-reader",
+        "name": "book-reader"
+    },
+    {
+        "className": "fas fa-bookmark",
+        "name": "bookmark"
+    },
+    {
+        "className": "fas fa-border-all",
+        "name": "border-all"
+    },
+    {
+        "className": "fas fa-border-none",
+        "name": "border-none"
+    },
+    {
+        "className": "fas fa-border-style",
+        "name": "border-style"
+    },
+    {
+        "className": "fas fa-bowling-ball",
+        "name": "bowling-ball"
+    },
+    {
+        "className": "fas fa-box",
+        "name": "box"
+    },
+    {
+        "className": "fas fa-box-open",
+        "name": "box-open"
+    },
+    {
+        "className": "fas fa-box-tissue",
+        "name": "box-tissue"
+    },
+    {
+        "className": "fas fa-boxes",
+        "name": "boxes"
+    },
+    {
+        "className": "fas fa-braille",
+        "name": "braille"
+    },
+    {
+        "className": "fas fa-brain",
+        "name": "brain"
+    },
+    {
+        "className": "fas fa-bread-slice",
+        "name": "bread-slice"
+    },
+    {
+        "className": "fas fa-briefcase",
+        "name": "briefcase"
+    },
+    {
+        "className": "fas fa-briefcase-medical",
+        "name": "briefcase-medical"
+    },
+    {
+        "className": "fas fa-broadcast-tower",
+        "name": "broadcast-tower"
+    },
+    {
+        "className": "fas fa-broom",
+        "name": "broom"
+    },
+    {
+        "className": "fas fa-brush",
+        "name": "brush"
+    },
+    {
+        "className": "fas fa-bug",
+        "name": "bug"
+    },
+    {
+        "className": "fas fa-building",
+        "name": "building"
+    },
+    {
+        "className": "fas fa-bullhorn",
+        "name": "bullhorn"
+    },
+    {
+        "className": "fas fa-bullseye",
+        "name": "bullseye"
+    },
+    {
+        "className": "fas fa-burn",
+        "name": "burn"
+    },
+    {
+        "className": "fas fa-bus",
+        "name": "bus"
+    },
+    {
+        "className": "fas fa-bus-alt",
+        "name": "bus-alt"
+    },
+    {
+        "className": "fas fa-business-time",
+        "name": "business-time"
+    },
+    {
+        "className": "fas fa-calculator",
+        "name": "calculator"
+    },
+    {
+        "className": "fas fa-calendar",
+        "name": "calendar"
+    },
+    {
+        "className": "fas fa-calendar-alt",
+        "name": "calendar-alt"
+    },
+    {
+        "className": "fas fa-calendar-check",
+        "name": "calendar-check"
+    },
+    {
+        "className": "fas fa-calendar-day",
+        "name": "calendar-day"
+    },
+    {
+        "className": "fas fa-calendar-minus",
+        "name": "calendar-minus"
+    },
+    {
+        "className": "fas fa-calendar-plus",
+        "name": "calendar-plus"
+    },
+    {
+        "className": "fas fa-calendar-times",
+        "name": "calendar-times"
+    },
+    {
+        "className": "fas fa-calendar-week",
+        "name": "calendar-week"
+    },
+    {
+        "className": "fas fa-camera",
+        "name": "camera"
+    },
+    {
+        "className": "fas fa-camera-retro",
+        "name": "camera-retro"
+    },
+    {
+        "className": "fas fa-campground",
+        "name": "campground"
+    },
+    {
+        "className": "fas fa-candy-cane",
+        "name": "candy-cane"
+    },
+    {
+        "className": "fas fa-cannabis",
+        "name": "cannabis"
+    },
+    {
+        "className": "fas fa-capsules",
+        "name": "capsules"
+    },
+    {
+        "className": "fas fa-car",
+        "name": "car"
+    },
+    {
+        "className": "fas fa-car-alt",
+        "name": "car-alt"
+    },
+    {
+        "className": "fas fa-car-battery",
+        "name": "car-battery"
+    },
+    {
+        "className": "fas fa-car-crash",
+        "name": "car-crash"
+    },
+    {
+        "className": "fas fa-car-side",
+        "name": "car-side"
+    },
+    {
+        "className": "fas fa-caravan",
+        "name": "caravan"
+    },
+    {
+        "className": "fas fa-caret-down",
+        "name": "caret-down"
+    },
+    {
+        "className": "fas fa-caret-left",
+        "name": "caret-left"
+    },
+    {
+        "className": "fas fa-caret-right",
+        "name": "caret-right"
+    },
+    {
+        "className": "fas fa-caret-square-down",
+        "name": "caret-square-down"
+    },
+    {
+        "className": "fas fa-caret-square-left",
+        "name": "caret-square-left"
+    },
+    {
+        "className": "fas fa-caret-square-right",
+        "name": "caret-square-right"
+    },
+    {
+        "className": "fas fa-caret-square-up",
+        "name": "caret-square-up"
+    },
+    {
+        "className": "fas fa-caret-up",
+        "name": "caret-up"
+    },
+    {
+        "className": "fas fa-carrot",
+        "name": "carrot"
+    },
+    {
+        "className": "fas fa-cart-arrow-down",
+        "name": "cart-arrow-down"
+    },
+    {
+        "className": "fas fa-cart-plus",
+        "name": "cart-plus"
+    },
+    {
+        "className": "fas fa-cash-register",
+        "name": "cash-register"
+    },
+    {
+        "className": "fas fa-cat",
+        "name": "cat"
+    },
+    {
+        "className": "fas fa-certificate",
+        "name": "certificate"
+    },
+    {
+        "className": "fas fa-chair",
+        "name": "chair"
+    },
+    {
+        "className": "fas fa-chalkboard",
+        "name": "chalkboard"
+    },
+    {
+        "className": "fas fa-chalkboard-teacher",
+        "name": "chalkboard-teacher"
+    },
+    {
+        "className": "fas fa-charging-station",
+        "name": "charging-station"
+    },
+    {
+        "className": "fas fa-chart-area",
+        "name": "chart-area"
+    },
+    {
+        "className": "fas fa-chart-bar",
+        "name": "chart-bar"
+    },
+    {
+        "className": "fas fa-chart-line",
+        "name": "chart-line"
+    },
+    {
+        "className": "fas fa-chart-pie",
+        "name": "chart-pie"
+    },
+    {
+        "className": "fas fa-check",
+        "name": "check"
+    },
+    {
+        "className": "fas fa-check-circle",
+        "name": "check-circle"
+    },
+    {
+        "className": "fas fa-check-double",
+        "name": "check-double"
+    },
+    {
+        "className": "fas fa-check-square",
+        "name": "check-square"
+    },
+    {
+        "className": "fas fa-cheese",
+        "name": "cheese"
+    },
+    {
+        "className": "fas fa-chess",
+        "name": "chess"
+    },
+    {
+        "className": "fas fa-chess-bishop",
+        "name": "chess-bishop"
+    },
+    {
+        "className": "fas fa-chess-board",
+        "name": "chess-board"
+    },
+    {
+        "className": "fas fa-chess-king",
+        "name": "chess-king"
+    },
+    {
+        "className": "fas fa-chess-knight",
+        "name": "chess-knight"
+    },
+    {
+        "className": "fas fa-chess-pawn",
+        "name": "chess-pawn"
+    },
+    {
+        "className": "fas fa-chess-queen",
+        "name": "chess-queen"
+    },
+    {
+        "className": "fas fa-chess-rook",
+        "name": "chess-rook"
+    },
+    {
+        "className": "fas fa-chevron-circle-down",
+        "name": "chevron-circle-down"
+    },
+    {
+        "className": "fas fa-chevron-circle-left",
+        "name": "chevron-circle-left"
+    },
+    {
+        "className": "fas fa-chevron-circle-right",
+        "name": "chevron-circle-right"
+    },
+    {
+        "className": "fas fa-chevron-circle-up",
+        "name": "chevron-circle-up"
+    },
+    {
+        "className": "fas fa-chevron-down",
+        "name": "chevron-down"
+    },
+    {
+        "className": "fas fa-chevron-left",
+        "name": "chevron-left"
+    },
+    {
+        "className": "fas fa-chevron-right",
+        "name": "chevron-right"
+    },
+    {
+        "className": "fas fa-chevron-up",
+        "name": "chevron-up"
+    },
+    {
+        "className": "fas fa-child",
+        "name": "child"
+    },
+    {
+        "className": "fas fa-church",
+        "name": "church"
+    },
+    {
+        "className": "fas fa-circle",
+        "name": "circle"
+    },
+    {
+        "className": "fas fa-circle-notch",
+        "name": "circle-notch"
+    },
+    {
+        "className": "fas fa-city",
+        "name": "city"
+    },
+    {
+        "className": "fas fa-clinic-medical",
+        "name": "clinic-medical"
+    },
+    {
+        "className": "fas fa-clipboard",
+        "name": "clipboard"
+    },
+    {
+        "className": "fas fa-clipboard-check",
+        "name": "clipboard-check"
+    },
+    {
+        "className": "fas fa-clipboard-list",
+        "name": "clipboard-list"
+    },
+    {
+        "className": "fas fa-clock",
+        "name": "clock"
+    },
+    {
+        "className": "fas fa-clone",
+        "name": "clone"
+    },
+    {
+        "className": "fas fa-closed-captioning",
+        "name": "closed-captioning"
+    },
+    {
+        "className": "fas fa-cloud",
+        "name": "cloud"
+    },
+    {
+        "className": "fas fa-cloud-download-alt",
+        "name": "cloud-download-alt"
+    },
+    {
+        "className": "fas fa-cloud-meatball",
+        "name": "cloud-meatball"
+    },
+    {
+        "className": "fas fa-cloud-moon",
+        "name": "cloud-moon"
+    },
+    {
+        "className": "fas fa-cloud-moon-rain",
+        "name": "cloud-moon-rain"
+    },
+    {
+        "className": "fas fa-cloud-rain",
+        "name": "cloud-rain"
+    },
+    {
+        "className": "fas fa-cloud-showers-heavy",
+        "name": "cloud-showers-heavy"
+    },
+    {
+        "className": "fas fa-cloud-sun",
+        "name": "cloud-sun"
+    },
+    {
+        "className": "fas fa-cloud-sun-rain",
+        "name": "cloud-sun-rain"
+    },
+    {
+        "className": "fas fa-cloud-upload-alt",
+        "name": "cloud-upload-alt"
+    },
+    {
+        "className": "fas fa-cocktail",
+        "name": "cocktail"
+    },
+    {
+        "className": "fas fa-code",
+        "name": "code"
+    },
+    {
+        "className": "fas fa-code-branch",
+        "name": "code-branch"
+    },
+    {
+        "className": "fas fa-coffee",
+        "name": "coffee"
+    },
+    {
+        "className": "fas fa-cog",
+        "name": "cog"
+    },
+    {
+        "className": "fas fa-cogs",
+        "name": "cogs"
+    },
+    {
+        "className": "fas fa-coins",
+        "name": "coins"
+    },
+    {
+        "className": "fas fa-columns",
+        "name": "columns"
+    },
+    {
+        "className": "fas fa-comment",
+        "name": "comment"
+    },
+    {
+        "className": "fas fa-comment-alt",
+        "name": "comment-alt"
+    },
+    {
+        "className": "fas fa-comment-dollar",
+        "name": "comment-dollar"
+    },
+    {
+        "className": "fas fa-comment-dots",
+        "name": "comment-dots"
+    },
+    {
+        "className": "fas fa-comment-medical",
+        "name": "comment-medical"
+    },
+    {
+        "className": "fas fa-comment-slash",
+        "name": "comment-slash"
+    },
+    {
+        "className": "fas fa-comments",
+        "name": "comments"
+    },
+    {
+        "className": "fas fa-comments-dollar",
+        "name": "comments-dollar"
+    },
+    {
+        "className": "fas fa-compact-disc",
+        "name": "compact-disc"
+    },
+    {
+        "className": "fas fa-compass",
+        "name": "compass"
+    },
+    {
+        "className": "fas fa-compress",
+        "name": "compress"
+    },
+    {
+        "className": "fas fa-compress-alt",
+        "name": "compress-alt"
+    },
+    {
+        "className": "fas fa-compress-arrows-alt",
+        "name": "compress-arrows-alt"
+    },
+    {
+        "className": "fas fa-concierge-bell",
+        "name": "concierge-bell"
+    },
+    {
+        "className": "fas fa-cookie",
+        "name": "cookie"
+    },
+    {
+        "className": "fas fa-cookie-bite",
+        "name": "cookie-bite"
+    },
+    {
+        "className": "fas fa-copy",
+        "name": "copy"
+    },
+    {
+        "className": "fas fa-copyright",
+        "name": "copyright"
+    },
+    {
+        "className": "fas fa-couch",
+        "name": "couch"
+    },
+    {
+        "className": "fas fa-credit-card",
+        "name": "credit-card"
+    },
+    {
+        "className": "fas fa-crop",
+        "name": "crop"
+    },
+    {
+        "className": "fas fa-crop-alt",
+        "name": "crop-alt"
+    },
+    {
+        "className": "fas fa-cross",
+        "name": "cross"
+    },
+    {
+        "className": "fas fa-crosshairs",
+        "name": "crosshairs"
+    },
+    {
+        "className": "fas fa-crow",
+        "name": "crow"
+    },
+    {
+        "className": "fas fa-crown",
+        "name": "crown"
+    },
+    {
+        "className": "fas fa-crutch",
+        "name": "crutch"
+    },
+    {
+        "className": "fas fa-cube",
+        "name": "cube"
+    },
+    {
+        "className": "fas fa-cubes",
+        "name": "cubes"
+    },
+    {
+        "className": "fas fa-cut",
+        "name": "cut"
+    },
+    {
+        "className": "fas fa-database",
+        "name": "database"
+    },
+    {
+        "className": "fas fa-deaf",
+        "name": "deaf"
+    },
+    {
+        "className": "fas fa-democrat",
+        "name": "democrat"
+    },
+    {
+        "className": "fas fa-desktop",
+        "name": "desktop"
+    },
+    {
+        "className": "fas fa-dharmachakra",
+        "name": "dharmachakra"
+    },
+    {
+        "className": "fas fa-diagnoses",
+        "name": "diagnoses"
+    },
+    {
+        "className": "fas fa-dice",
+        "name": "dice"
+    },
+    {
+        "className": "fas fa-dice-d20",
+        "name": "dice-d20"
+    },
+    {
+        "className": "fas fa-dice-d6",
+        "name": "dice-d6"
+    },
+    {
+        "className": "fas fa-dice-five",
+        "name": "dice-five"
+    },
+    {
+        "className": "fas fa-dice-four",
+        "name": "dice-four"
+    },
+    {
+        "className": "fas fa-dice-one",
+        "name": "dice-one"
+    },
+    {
+        "className": "fas fa-dice-six",
+        "name": "dice-six"
+    },
+    {
+        "className": "fas fa-dice-three",
+        "name": "dice-three"
+    },
+    {
+        "className": "fas fa-dice-two",
+        "name": "dice-two"
+    },
+    {
+        "className": "fas fa-digital-tachograph",
+        "name": "digital-tachograph"
+    },
+    {
+        "className": "fas fa-directions",
+        "name": "directions"
+    },
+    {
+        "className": "fas fa-disease",
+        "name": "disease"
+    },
+    {
+        "className": "fas fa-divide",
+        "name": "divide"
+    },
+    {
+        "className": "fas fa-dizzy",
+        "name": "dizzy"
+    },
+    {
+        "className": "fas fa-dna",
+        "name": "dna"
+    },
+    {
+        "className": "fas fa-dog",
+        "name": "dog"
+    },
+    {
+        "className": "fas fa-dollar-sign",
+        "name": "dollar-sign"
+    },
+    {
+        "className": "fas fa-dolly",
+        "name": "dolly"
+    },
+    {
+        "className": "fas fa-dolly-flatbed",
+        "name": "dolly-flatbed"
+    },
+    {
+        "className": "fas fa-donate",
+        "name": "donate"
+    },
+    {
+        "className": "fas fa-door-closed",
+        "name": "door-closed"
+    },
+    {
+        "className": "fas fa-door-open",
+        "name": "door-open"
+    },
+    {
+        "className": "fas fa-dot-circle",
+        "name": "dot-circle"
+    },
+    {
+        "className": "fas fa-dove",
+        "name": "dove"
+    },
+    {
+        "className": "fas fa-download",
+        "name": "download"
+    },
+    {
+        "className": "fas fa-drafting-compass",
+        "name": "drafting-compass"
+    },
+    {
+        "className": "fas fa-dragon",
+        "name": "dragon"
+    },
+    {
+        "className": "fas fa-draw-polygon",
+        "name": "draw-polygon"
+    },
+    {
+        "className": "fas fa-drum",
+        "name": "drum"
+    },
+    {
+        "className": "fas fa-drum-steelpan",
+        "name": "drum-steelpan"
+    },
+    {
+        "className": "fas fa-drumstick-bite",
+        "name": "drumstick-bite"
+    },
+    {
+        "className": "fas fa-dumbbell",
+        "name": "dumbbell"
+    },
+    {
+        "className": "fas fa-dumpster",
+        "name": "dumpster"
+    },
+    {
+        "className": "fas fa-dumpster-fire",
+        "name": "dumpster-fire"
+    },
+    {
+        "className": "fas fa-dungeon",
+        "name": "dungeon"
+    },
+    {
+        "className": "fas fa-edit",
+        "name": "edit"
+    },
+    {
+        "className": "fas fa-egg",
+        "name": "egg"
+    },
+    {
+        "className": "fas fa-eject",
+        "name": "eject"
+    },
+    {
+        "className": "fas fa-ellipsis-h",
+        "name": "ellipsis-h"
+    },
+    {
+        "className": "fas fa-ellipsis-v",
+        "name": "ellipsis-v"
+    },
+    {
+        "className": "fas fa-envelope",
+        "name": "envelope"
+    },
+    {
+        "className": "fas fa-envelope-open",
+        "name": "envelope-open"
+    },
+    {
+        "className": "fas fa-envelope-open-text",
+        "name": "envelope-open-text"
+    },
+    {
+        "className": "fas fa-envelope-square",
+        "name": "envelope-square"
+    },
+    {
+        "className": "fas fa-equals",
+        "name": "equals"
+    },
+    {
+        "className": "fas fa-eraser",
+        "name": "eraser"
+    },
+    {
+        "className": "fas fa-ethernet",
+        "name": "ethernet"
+    },
+    {
+        "className": "fas fa-euro-sign",
+        "name": "euro-sign"
+    },
+    {
+        "className": "fas fa-exchange-alt",
+        "name": "exchange-alt"
+    },
+    {
+        "className": "fas fa-exclamation",
+        "name": "exclamation"
+    },
+    {
+        "className": "fas fa-exclamation-circle",
+        "name": "exclamation-circle"
+    },
+    {
+        "className": "fas fa-exclamation-triangle",
+        "name": "exclamation-triangle"
+    },
+    {
+        "className": "fas fa-expand",
+        "name": "expand"
+    },
+    {
+        "className": "fas fa-expand-alt",
+        "name": "expand-alt"
+    },
+    {
+        "className": "fas fa-expand-arrows-alt",
+        "name": "expand-arrows-alt"
+    },
+    {
+        "className": "fas fa-external-link-alt",
+        "name": "external-link-alt"
+    },
+    {
+        "className": "fas fa-external-link-square-alt",
+        "name": "external-link-square-alt"
+    },
+    {
+        "className": "fas fa-eye",
+        "name": "eye"
+    },
+    {
+        "className": "fas fa-eye-dropper",
+        "name": "eye-dropper"
+    },
+    {
+        "className": "fas fa-eye-slash",
+        "name": "eye-slash"
+    },
+    {
+        "className": "fas fa-fan",
+        "name": "fan"
+    },
+    {
+        "className": "fas fa-fast-backward",
+        "name": "fast-backward"
+    },
+    {
+        "className": "fas fa-fast-forward",
+        "name": "fast-forward"
+    },
+    {
+        "className": "fas fa-faucet",
+        "name": "faucet"
+    },
+    {
+        "className": "fas fa-fax",
+        "name": "fax"
+    },
+    {
+        "className": "fas fa-feather",
+        "name": "feather"
+    },
+    {
+        "className": "fas fa-feather-alt",
+        "name": "feather-alt"
+    },
+    {
+        "className": "fas fa-female",
+        "name": "female"
+    },
+    {
+        "className": "fas fa-fighter-jet",
+        "name": "fighter-jet"
+    },
+    {
+        "className": "fas fa-file",
+        "name": "file"
+    },
+    {
+        "className": "fas fa-file-alt",
+        "name": "file-alt"
+    },
+    {
+        "className": "fas fa-file-archive",
+        "name": "file-archive"
+    },
+    {
+        "className": "fas fa-file-audio",
+        "name": "file-audio"
+    },
+    {
+        "className": "fas fa-file-code",
+        "name": "file-code"
+    },
+    {
+        "className": "fas fa-file-contract",
+        "name": "file-contract"
+    },
+    {
+        "className": "fas fa-file-csv",
+        "name": "file-csv"
+    },
+    {
+        "className": "fas fa-file-download",
+        "name": "file-download"
+    },
+    {
+        "className": "fas fa-file-excel",
+        "name": "file-excel"
+    },
+    {
+        "className": "fas fa-file-export",
+        "name": "file-export"
+    },
+    {
+        "className": "fas fa-file-image",
+        "name": "file-image"
+    },
+    {
+        "className": "fas fa-file-import",
+        "name": "file-import"
+    },
+    {
+        "className": "fas fa-file-invoice",
+        "name": "file-invoice"
+    },
+    {
+        "className": "fas fa-file-invoice-dollar",
+        "name": "file-invoice-dollar"
+    },
+    {
+        "className": "fas fa-file-medical",
+        "name": "file-medical"
+    },
+    {
+        "className": "fas fa-file-medical-alt",
+        "name": "file-medical-alt"
+    },
+    {
+        "className": "fas fa-file-pdf",
+        "name": "file-pdf"
+    },
+    {
+        "className": "fas fa-file-powerpoint",
+        "name": "file-powerpoint"
+    },
+    {
+        "className": "fas fa-file-prescription",
+        "name": "file-prescription"
+    },
+    {
+        "className": "fas fa-file-signature",
+        "name": "file-signature"
+    },
+    {
+        "className": "fas fa-file-upload",
+        "name": "file-upload"
+    },
+    {
+        "className": "fas fa-file-video",
+        "name": "file-video"
+    },
+    {
+        "className": "fas fa-file-word",
+        "name": "file-word"
+    },
+    {
+        "className": "fas fa-fill",
+        "name": "fill"
+    },
+    {
+        "className": "fas fa-fill-drip",
+        "name": "fill-drip"
+    },
+    {
+        "className": "fas fa-film",
+        "name": "film"
+    },
+    {
+        "className": "fas fa-filter",
+        "name": "filter"
+    },
+    {
+        "className": "fas fa-fingerprint",
+        "name": "fingerprint"
+    },
+    {
+        "className": "fas fa-fire",
+        "name": "fire"
+    },
+    {
+        "className": "fas fa-fire-alt",
+        "name": "fire-alt"
+    },
+    {
+        "className": "fas fa-fire-extinguisher",
+        "name": "fire-extinguisher"
+    },
+    {
+        "className": "fas fa-first-aid",
+        "name": "first-aid"
+    },
+    {
+        "className": "fas fa-fish",
+        "name": "fish"
+    },
+    {
+        "className": "fas fa-fist-raised",
+        "name": "fist-raised"
+    },
+    {
+        "className": "fas fa-flag",
+        "name": "flag"
+    },
+    {
+        "className": "fas fa-flag-checkered",
+        "name": "flag-checkered"
+    },
+    {
+        "className": "fas fa-flag-usa",
+        "name": "flag-usa"
+    },
+    {
+        "className": "fas fa-flask",
+        "name": "flask"
+    },
+    {
+        "className": "fas fa-flushed",
+        "name": "flushed"
+    },
+    {
+        "className": "fas fa-folder",
+        "name": "folder"
+    },
+    {
+        "className": "fas fa-folder-minus",
+        "name": "folder-minus"
+    },
+    {
+        "className": "fas fa-folder-open",
+        "name": "folder-open"
+    },
+    {
+        "className": "fas fa-folder-plus",
+        "name": "folder-plus"
+    },
+    {
+        "className": "fas fa-font",
+        "name": "font"
+    },
+    {
+        "className": "fas fa-football-ball",
+        "name": "football-ball"
+    },
+    {
+        "className": "fas fa-forward",
+        "name": "forward"
+    },
+    {
+        "className": "fas fa-frog",
+        "name": "frog"
+    },
+    {
+        "className": "fas fa-frown",
+        "name": "frown"
+    },
+    {
+        "className": "fas fa-frown-open",
+        "name": "frown-open"
+    },
+    {
+        "className": "fas fa-funnel-dollar",
+        "name": "funnel-dollar"
+    },
+    {
+        "className": "fas fa-futbol",
+        "name": "futbol"
+    },
+    {
+        "className": "fas fa-gamepad",
+        "name": "gamepad"
+    },
+    {
+        "className": "fas fa-gas-pump",
+        "name": "gas-pump"
+    },
+    {
+        "className": "fas fa-gavel",
+        "name": "gavel"
+    },
+    {
+        "className": "fas fa-gem",
+        "name": "gem"
+    },
+    {
+        "className": "fas fa-genderless",
+        "name": "genderless"
+    },
+    {
+        "className": "fas fa-ghost",
+        "name": "ghost"
+    },
+    {
+        "className": "fas fa-gift",
+        "name": "gift"
+    },
+    {
+        "className": "fas fa-gifts",
+        "name": "gifts"
+    },
+    {
+        "className": "fas fa-glass-cheers",
+        "name": "glass-cheers"
+    },
+    {
+        "className": "fas fa-glass-martini",
+        "name": "glass-martini"
+    },
+    {
+        "className": "fas fa-glass-martini-alt",
+        "name": "glass-martini-alt"
+    },
+    {
+        "className": "fas fa-glass-whiskey",
+        "name": "glass-whiskey"
+    },
+    {
+        "className": "fas fa-glasses",
+        "name": "glasses"
+    },
+    {
+        "className": "fas fa-globe",
+        "name": "globe"
+    },
+    {
+        "className": "fas fa-globe-africa",
+        "name": "globe-africa"
+    },
+    {
+        "className": "fas fa-globe-americas",
+        "name": "globe-americas"
+    },
+    {
+        "className": "fas fa-globe-asia",
+        "name": "globe-asia"
+    },
+    {
+        "className": "fas fa-globe-europe",
+        "name": "globe-europe"
+    },
+    {
+        "className": "fas fa-golf-ball",
+        "name": "golf-ball"
+    },
+    {
+        "className": "fas fa-gopuram",
+        "name": "gopuram"
+    },
+    {
+        "className": "fas fa-graduation-cap",
+        "name": "graduation-cap"
+    },
+    {
+        "className": "fas fa-greater-than",
+        "name": "greater-than"
+    },
+    {
+        "className": "fas fa-greater-than-equal",
+        "name": "greater-than-equal"
+    },
+    {
+        "className": "fas fa-grimace",
+        "name": "grimace"
+    },
+    {
+        "className": "fas fa-grin",
+        "name": "grin"
+    },
+    {
+        "className": "fas fa-grin-alt",
+        "name": "grin-alt"
+    },
+    {
+        "className": "fas fa-grin-beam",
+        "name": "grin-beam"
+    },
+    {
+        "className": "fas fa-grin-beam-sweat",
+        "name": "grin-beam-sweat"
+    },
+    {
+        "className": "fas fa-grin-hearts",
+        "name": "grin-hearts"
+    },
+    {
+        "className": "fas fa-grin-squint",
+        "name": "grin-squint"
+    },
+    {
+        "className": "fas fa-grin-squint-tears",
+        "name": "grin-squint-tears"
+    },
+    {
+        "className": "fas fa-grin-stars",
+        "name": "grin-stars"
+    },
+    {
+        "className": "fas fa-grin-tears",
+        "name": "grin-tears"
+    },
+    {
+        "className": "fas fa-grin-tongue",
+        "name": "grin-tongue"
+    },
+    {
+        "className": "fas fa-grin-tongue-squint",
+        "name": "grin-tongue-squint"
+    },
+    {
+        "className": "fas fa-grin-tongue-wink",
+        "name": "grin-tongue-wink"
+    },
+    {
+        "className": "fas fa-grin-wink",
+        "name": "grin-wink"
+    },
+    {
+        "className": "fas fa-grip-horizontal",
+        "name": "grip-horizontal"
+    },
+    {
+        "className": "fas fa-grip-lines",
+        "name": "grip-lines"
+    },
+    {
+        "className": "fas fa-grip-lines-vertical",
+        "name": "grip-lines-vertical"
+    },
+    {
+        "className": "fas fa-grip-vertical",
+        "name": "grip-vertical"
+    },
+    {
+        "className": "fas fa-guitar",
+        "name": "guitar"
+    },
+    {
+        "className": "fas fa-h-square",
+        "name": "h-square"
+    },
+    {
+        "className": "fas fa-hamburger",
+        "name": "hamburger"
+    },
+    {
+        "className": "fas fa-hammer",
+        "name": "hammer"
+    },
+    {
+        "className": "fas fa-hamsa",
+        "name": "hamsa"
+    },
+    {
+        "className": "fas fa-hand-holding",
+        "name": "hand-holding"
+    },
+    {
+        "className": "fas fa-hand-holding-heart",
+        "name": "hand-holding-heart"
+    },
+    {
+        "className": "fas fa-hand-holding-medical",
+        "name": "hand-holding-medical"
+    },
+    {
+        "className": "fas fa-hand-holding-usd",
+        "name": "hand-holding-usd"
+    },
+    {
+        "className": "fas fa-hand-holding-water",
+        "name": "hand-holding-water"
+    },
+    {
+        "className": "fas fa-hand-lizard",
+        "name": "hand-lizard"
+    },
+    {
+        "className": "fas fa-hand-middle-finger",
+        "name": "hand-middle-finger"
+    },
+    {
+        "className": "fas fa-hand-paper",
+        "name": "hand-paper"
+    },
+    {
+        "className": "fas fa-hand-peace",
+        "name": "hand-peace"
+    },
+    {
+        "className": "fas fa-hand-point-down",
+        "name": "hand-point-down"
+    },
+    {
+        "className": "fas fa-hand-point-left",
+        "name": "hand-point-left"
+    },
+    {
+        "className": "fas fa-hand-point-right",
+        "name": "hand-point-right"
+    },
+    {
+        "className": "fas fa-hand-point-up",
+        "name": "hand-point-up"
+    },
+    {
+        "className": "fas fa-hand-pointer",
+        "name": "hand-pointer"
+    },
+    {
+        "className": "fas fa-hand-rock",
+        "name": "hand-rock"
+    },
+    {
+        "className": "fas fa-hand-scissors",
+        "name": "hand-scissors"
+    },
+    {
+        "className": "fas fa-hand-sparkles",
+        "name": "hand-sparkles"
+    },
+    {
+        "className": "fas fa-hand-spock",
+        "name": "hand-spock"
+    },
+    {
+        "className": "fas fa-hands",
+        "name": "hands"
+    },
+    {
+        "className": "fas fa-hands-helping",
+        "name": "hands-helping"
+    },
+    {
+        "className": "fas fa-hands-wash",
+        "name": "hands-wash"
+    },
+    {
+        "className": "fas fa-handshake",
+        "name": "handshake"
+    },
+    {
+        "className": "fas fa-handshake-alt-slash",
+        "name": "handshake-alt-slash"
+    },
+    {
+        "className": "fas fa-handshake-slash",
+        "name": "handshake-slash"
+    },
+    {
+        "className": "fas fa-hanukiah",
+        "name": "hanukiah"
+    },
+    {
+        "className": "fas fa-hard-hat",
+        "name": "hard-hat"
+    },
+    {
+        "className": "fas fa-hashtag",
+        "name": "hashtag"
+    },
+    {
+        "className": "fas fa-hat-cowboy",
+        "name": "hat-cowboy"
+    },
+    {
+        "className": "fas fa-hat-cowboy-side",
+        "name": "hat-cowboy-side"
+    },
+    {
+        "className": "fas fa-hat-wizard",
+        "name": "hat-wizard"
+    },
+    {
+        "className": "fas fa-hdd",
+        "name": "hdd"
+    },
+    {
+        "className": "fas fa-head-side-cough",
+        "name": "head-side-cough"
+    },
+    {
+        "className": "fas fa-head-side-cough-slash",
+        "name": "head-side-cough-slash"
+    },
+    {
+        "className": "fas fa-head-side-mask",
+        "name": "head-side-mask"
+    },
+    {
+        "className": "fas fa-head-side-virus",
+        "name": "head-side-virus"
+    },
+    {
+        "className": "fas fa-heading",
+        "name": "heading"
+    },
+    {
+        "className": "fas fa-headphones",
+        "name": "headphones"
+    },
+    {
+        "className": "fas fa-headphones-alt",
+        "name": "headphones-alt"
+    },
+    {
+        "className": "fas fa-headset",
+        "name": "headset"
+    },
+    {
+        "className": "fas fa-heart",
+        "name": "heart"
+    },
+    {
+        "className": "fas fa-heart-broken",
+        "name": "heart-broken"
+    },
+    {
+        "className": "fas fa-heartbeat",
+        "name": "heartbeat"
+    },
+    {
+        "className": "fas fa-helicopter",
+        "name": "helicopter"
+    },
+    {
+        "className": "fas fa-highlighter",
+        "name": "highlighter"
+    },
+    {
+        "className": "fas fa-hiking",
+        "name": "hiking"
+    },
+    {
+        "className": "fas fa-hippo",
+        "name": "hippo"
+    },
+    {
+        "className": "fas fa-history",
+        "name": "history"
+    },
+    {
+        "className": "fas fa-hockey-puck",
+        "name": "hockey-puck"
+    },
+    {
+        "className": "fas fa-holly-berry",
+        "name": "holly-berry"
+    },
+    {
+        "className": "fas fa-home",
+        "name": "home"
+    },
+    {
+        "className": "fas fa-horse",
+        "name": "horse"
+    },
+    {
+        "className": "fas fa-horse-head",
+        "name": "horse-head"
+    },
+    {
+        "className": "fas fa-hospital",
+        "name": "hospital"
+    },
+    {
+        "className": "fas fa-hospital-alt",
+        "name": "hospital-alt"
+    },
+    {
+        "className": "fas fa-hospital-symbol",
+        "name": "hospital-symbol"
+    },
+    {
+        "className": "fas fa-hospital-user",
+        "name": "hospital-user"
+    },
+    {
+        "className": "fas fa-hot-tub",
+        "name": "hot-tub"
+    },
+    {
+        "className": "fas fa-hotdog",
+        "name": "hotdog"
+    },
+    {
+        "className": "fas fa-hotel",
+        "name": "hotel"
+    },
+    {
+        "className": "fas fa-hourglass",
+        "name": "hourglass"
+    },
+    {
+        "className": "fas fa-hourglass-end",
+        "name": "hourglass-end"
+    },
+    {
+        "className": "fas fa-hourglass-half",
+        "name": "hourglass-half"
+    },
+    {
+        "className": "fas fa-hourglass-start",
+        "name": "hourglass-start"
+    },
+    {
+        "className": "fas fa-house-damage",
+        "name": "house-damage"
+    },
+    {
+        "className": "fas fa-house-user",
+        "name": "house-user"
+    },
+    {
+        "className": "fas fa-hryvnia",
+        "name": "hryvnia"
+    },
+    {
+        "className": "fas fa-i-cursor",
+        "name": "i-cursor"
+    },
+    {
+        "className": "fas fa-ice-cream",
+        "name": "ice-cream"
+    },
+    {
+        "className": "fas fa-icicles",
+        "name": "icicles"
+    },
+    {
+        "className": "fas fa-icons",
+        "name": "icons"
+    },
+    {
+        "className": "fas fa-id-badge",
+        "name": "id-badge"
+    },
+    {
+        "className": "fas fa-id-card",
+        "name": "id-card"
+    },
+    {
+        "className": "fas fa-id-card-alt",
+        "name": "id-card-alt"
+    },
+    {
+        "className": "fas fa-igloo",
+        "name": "igloo"
+    },
+    {
+        "className": "fas fa-image",
+        "name": "image"
+    },
+    {
+        "className": "fas fa-images",
+        "name": "images"
+    },
+    {
+        "className": "fas fa-inbox",
+        "name": "inbox"
+    },
+    {
+        "className": "fas fa-indent",
+        "name": "indent"
+    },
+    {
+        "className": "fas fa-industry",
+        "name": "industry"
+    },
+    {
+        "className": "fas fa-infinity",
+        "name": "infinity"
+    },
+    {
+        "className": "fas fa-info",
+        "name": "info"
+    },
+    {
+        "className": "fas fa-info-circle",
+        "name": "info-circle"
+    },
+    {
+        "className": "fas fa-italic",
+        "name": "italic"
+    },
+    {
+        "className": "fas fa-jedi",
+        "name": "jedi"
+    },
+    {
+        "className": "fas fa-joint",
+        "name": "joint"
+    },
+    {
+        "className": "fas fa-journal-whills",
+        "name": "journal-whills"
+    },
+    {
+        "className": "fas fa-kaaba",
+        "name": "kaaba"
+    },
+    {
+        "className": "fas fa-key",
+        "name": "key"
+    },
+    {
+        "className": "fas fa-keyboard",
+        "name": "keyboard"
+    },
+    {
+        "className": "fas fa-khanda",
+        "name": "khanda"
+    },
+    {
+        "className": "fas fa-kiss",
+        "name": "kiss"
+    },
+    {
+        "className": "fas fa-kiss-beam",
+        "name": "kiss-beam"
+    },
+    {
+        "className": "fas fa-kiss-wink-heart",
+        "name": "kiss-wink-heart"
+    },
+    {
+        "className": "fas fa-kiwi-bird",
+        "name": "kiwi-bird"
+    },
+    {
+        "className": "fas fa-landmark",
+        "name": "landmark"
+    },
+    {
+        "className": "fas fa-language",
+        "name": "language"
+    },
+    {
+        "className": "fas fa-laptop",
+        "name": "laptop"
+    },
+    {
+        "className": "fas fa-laptop-code",
+        "name": "laptop-code"
+    },
+    {
+        "className": "fas fa-laptop-house",
+        "name": "laptop-house"
+    },
+    {
+        "className": "fas fa-laptop-medical",
+        "name": "laptop-medical"
+    },
+    {
+        "className": "fas fa-laugh",
+        "name": "laugh"
+    },
+    {
+        "className": "fas fa-laugh-beam",
+        "name": "laugh-beam"
+    },
+    {
+        "className": "fas fa-laugh-squint",
+        "name": "laugh-squint"
+    },
+    {
+        "className": "fas fa-laugh-wink",
+        "name": "laugh-wink"
+    },
+    {
+        "className": "fas fa-layer-group",
+        "name": "layer-group"
+    },
+    {
+        "className": "fas fa-leaf",
+        "name": "leaf"
+    },
+    {
+        "className": "fas fa-lemon",
+        "name": "lemon"
+    },
+    {
+        "className": "fas fa-less-than",
+        "name": "less-than"
+    },
+    {
+        "className": "fas fa-less-than-equal",
+        "name": "less-than-equal"
+    },
+    {
+        "className": "fas fa-level-down-alt",
+        "name": "level-down-alt"
+    },
+    {
+        "className": "fas fa-level-up-alt",
+        "name": "level-up-alt"
+    },
+    {
+        "className": "fas fa-life-ring",
+        "name": "life-ring"
+    },
+    {
+        "className": "fas fa-lightbulb",
+        "name": "lightbulb"
+    },
+    {
+        "className": "fas fa-link",
+        "name": "link"
+    },
+    {
+        "className": "fas fa-lira-sign",
+        "name": "lira-sign"
+    },
+    {
+        "className": "fas fa-list",
+        "name": "list"
+    },
+    {
+        "className": "fas fa-list-alt",
+        "name": "list-alt"
+    },
+    {
+        "className": "fas fa-list-ol",
+        "name": "list-ol"
+    },
+    {
+        "className": "fas fa-list-ul",
+        "name": "list-ul"
+    },
+    {
+        "className": "fas fa-location-arrow",
+        "name": "location-arrow"
+    },
+    {
+        "className": "fas fa-lock",
+        "name": "lock"
+    },
+    {
+        "className": "fas fa-lock-open",
+        "name": "lock-open"
+    },
+    {
+        "className": "fas fa-long-arrow-alt-down",
+        "name": "long-arrow-alt-down"
+    },
+    {
+        "className": "fas fa-long-arrow-alt-left",
+        "name": "long-arrow-alt-left"
+    },
+    {
+        "className": "fas fa-long-arrow-alt-right",
+        "name": "long-arrow-alt-right"
+    },
+    {
+        "className": "fas fa-long-arrow-alt-up",
+        "name": "long-arrow-alt-up"
+    },
+    {
+        "className": "fas fa-low-vision",
+        "name": "low-vision"
+    },
+    {
+        "className": "fas fa-luggage-cart",
+        "name": "luggage-cart"
+    },
+    {
+        "className": "fas fa-lungs",
+        "name": "lungs"
+    },
+    {
+        "className": "fas fa-lungs-virus",
+        "name": "lungs-virus"
+    },
+    {
+        "className": "fas fa-magic",
+        "name": "magic"
+    },
+    {
+        "className": "fas fa-magnet",
+        "name": "magnet"
+    },
+    {
+        "className": "fas fa-mail-bulk",
+        "name": "mail-bulk"
+    },
+    {
+        "className": "fas fa-male",
+        "name": "male"
+    },
+    {
+        "className": "fas fa-map",
+        "name": "map"
+    },
+    {
+        "className": "fas fa-map-marked",
+        "name": "map-marked"
+    },
+    {
+        "className": "fas fa-map-marked-alt",
+        "name": "map-marked-alt"
+    },
+    {
+        "className": "fas fa-map-marker",
+        "name": "map-marker"
+    },
+    {
+        "className": "fas fa-map-marker-alt",
+        "name": "map-marker-alt"
+    },
+    {
+        "className": "fas fa-map-pin",
+        "name": "map-pin"
+    },
+    {
+        "className": "fas fa-map-signs",
+        "name": "map-signs"
+    },
+    {
+        "className": "fas fa-marker",
+        "name": "marker"
+    },
+    {
+        "className": "fas fa-mars",
+        "name": "mars"
+    },
+    {
+        "className": "fas fa-mars-double",
+        "name": "mars-double"
+    },
+    {
+        "className": "fas fa-mars-stroke",
+        "name": "mars-stroke"
+    },
+    {
+        "className": "fas fa-mars-stroke-h",
+        "name": "mars-stroke-h"
+    },
+    {
+        "className": "fas fa-mars-stroke-v",
+        "name": "mars-stroke-v"
+    },
+    {
+        "className": "fas fa-mask",
+        "name": "mask"
+    },
+    {
+        "className": "fas fa-medal",
+        "name": "medal"
+    },
+    {
+        "className": "fas fa-medkit",
+        "name": "medkit"
+    },
+    {
+        "className": "fas fa-meh",
+        "name": "meh"
+    },
+    {
+        "className": "fas fa-meh-blank",
+        "name": "meh-blank"
+    },
+    {
+        "className": "fas fa-meh-rolling-eyes",
+        "name": "meh-rolling-eyes"
+    },
+    {
+        "className": "fas fa-memory",
+        "name": "memory"
+    },
+    {
+        "className": "fas fa-menorah",
+        "name": "menorah"
+    },
+    {
+        "className": "fas fa-mercury",
+        "name": "mercury"
+    },
+    {
+        "className": "fas fa-meteor",
+        "name": "meteor"
+    },
+    {
+        "className": "fas fa-microchip",
+        "name": "microchip"
+    },
+    {
+        "className": "fas fa-microphone",
+        "name": "microphone"
+    },
+    {
+        "className": "fas fa-microphone-alt",
+        "name": "microphone-alt"
+    },
+    {
+        "className": "fas fa-microphone-alt-slash",
+        "name": "microphone-alt-slash"
+    },
+    {
+        "className": "fas fa-microphone-slash",
+        "name": "microphone-slash"
+    },
+    {
+        "className": "fas fa-microscope",
+        "name": "microscope"
+    },
+    {
+        "className": "fas fa-minus",
+        "name": "minus"
+    },
+    {
+        "className": "fas fa-minus-circle",
+        "name": "minus-circle"
+    },
+    {
+        "className": "fas fa-minus-square",
+        "name": "minus-square"
+    },
+    {
+        "className": "fas fa-mitten",
+        "name": "mitten"
+    },
+    {
+        "className": "fas fa-mobile",
+        "name": "mobile"
+    },
+    {
+        "className": "fas fa-mobile-alt",
+        "name": "mobile-alt"
+    },
+    {
+        "className": "fas fa-money-bill",
+        "name": "money-bill"
+    },
+    {
+        "className": "fas fa-money-bill-alt",
+        "name": "money-bill-alt"
+    },
+    {
+        "className": "fas fa-money-bill-wave",
+        "name": "money-bill-wave"
+    },
+    {
+        "className": "fas fa-money-bill-wave-alt",
+        "name": "money-bill-wave-alt"
+    },
+    {
+        "className": "fas fa-money-check",
+        "name": "money-check"
+    },
+    {
+        "className": "fas fa-money-check-alt",
+        "name": "money-check-alt"
+    },
+    {
+        "className": "fas fa-monument",
+        "name": "monument"
+    },
+    {
+        "className": "fas fa-moon",
+        "name": "moon"
+    },
+    {
+        "className": "fas fa-mortar-pestle",
+        "name": "mortar-pestle"
+    },
+    {
+        "className": "fas fa-mosque",
+        "name": "mosque"
+    },
+    {
+        "className": "fas fa-motorcycle",
+        "name": "motorcycle"
+    },
+    {
+        "className": "fas fa-mountain",
+        "name": "mountain"
+    },
+    {
+        "className": "fas fa-mouse",
+        "name": "mouse"
+    },
+    {
+        "className": "fas fa-mouse-pointer",
+        "name": "mouse-pointer"
+    },
+    {
+        "className": "fas fa-mug-hot",
+        "name": "mug-hot"
+    },
+    {
+        "className": "fas fa-music",
+        "name": "music"
+    },
+    {
+        "className": "fas fa-network-wired",
+        "name": "network-wired"
+    },
+    {
+        "className": "fas fa-neuter",
+        "name": "neuter"
+    },
+    {
+        "className": "fas fa-newspaper",
+        "name": "newspaper"
+    },
+    {
+        "className": "fas fa-not-equal",
+        "name": "not-equal"
+    },
+    {
+        "className": "fas fa-notes-medical",
+        "name": "notes-medical"
+    },
+    {
+        "className": "fas fa-object-group",
+        "name": "object-group"
+    },
+    {
+        "className": "fas fa-object-ungroup",
+        "name": "object-ungroup"
+    },
+    {
+        "className": "fas fa-oil-can",
+        "name": "oil-can"
+    },
+    {
+        "className": "fas fa-om",
+        "name": "om"
+    },
+    {
+        "className": "fas fa-otter",
+        "name": "otter"
+    },
+    {
+        "className": "fas fa-outdent",
+        "name": "outdent"
+    },
+    {
+        "className": "fas fa-pager",
+        "name": "pager"
+    },
+    {
+        "className": "fas fa-paint-brush",
+        "name": "paint-brush"
+    },
+    {
+        "className": "fas fa-paint-roller",
+        "name": "paint-roller"
+    },
+    {
+        "className": "fas fa-palette",
+        "name": "palette"
+    },
+    {
+        "className": "fas fa-pallet",
+        "name": "pallet"
+    },
+    {
+        "className": "fas fa-paper-plane",
+        "name": "paper-plane"
+    },
+    {
+        "className": "fas fa-paperclip",
+        "name": "paperclip"
+    },
+    {
+        "className": "fas fa-parachute-box",
+        "name": "parachute-box"
+    },
+    {
+        "className": "fas fa-paragraph",
+        "name": "paragraph"
+    },
+    {
+        "className": "fas fa-parking",
+        "name": "parking"
+    },
+    {
+        "className": "fas fa-passport",
+        "name": "passport"
+    },
+    {
+        "className": "fas fa-pastafarianism",
+        "name": "pastafarianism"
+    },
+    {
+        "className": "fas fa-paste",
+        "name": "paste"
+    },
+    {
+        "className": "fas fa-pause",
+        "name": "pause"
+    },
+    {
+        "className": "fas fa-pause-circle",
+        "name": "pause-circle"
+    },
+    {
+        "className": "fas fa-paw",
+        "name": "paw"
+    },
+    {
+        "className": "fas fa-peace",
+        "name": "peace"
+    },
+    {
+        "className": "fas fa-pen",
+        "name": "pen"
+    },
+    {
+        "className": "fas fa-pen-alt",
+        "name": "pen-alt"
+    },
+    {
+        "className": "fas fa-pen-fancy",
+        "name": "pen-fancy"
+    },
+    {
+        "className": "fas fa-pen-nib",
+        "name": "pen-nib"
+    },
+    {
+        "className": "fas fa-pen-square",
+        "name": "pen-square"
+    },
+    {
+        "className": "fas fa-pencil-alt",
+        "name": "pencil-alt"
+    },
+    {
+        "className": "fas fa-pencil-ruler",
+        "name": "pencil-ruler"
+    },
+    {
+        "className": "fas fa-people-arrows",
+        "name": "people-arrows"
+    },
+    {
+        "className": "fas fa-people-carry",
+        "name": "people-carry"
+    },
+    {
+        "className": "fas fa-pepper-hot",
+        "name": "pepper-hot"
+    },
+    {
+        "className": "fas fa-percent",
+        "name": "percent"
+    },
+    {
+        "className": "fas fa-percentage",
+        "name": "percentage"
+    },
+    {
+        "className": "fas fa-person-booth",
+        "name": "person-booth"
+    },
+    {
+        "className": "fas fa-phone",
+        "name": "phone"
+    },
+    {
+        "className": "fas fa-phone-alt",
+        "name": "phone-alt"
+    },
+    {
+        "className": "fas fa-phone-slash",
+        "name": "phone-slash"
+    },
+    {
+        "className": "fas fa-phone-square",
+        "name": "phone-square"
+    },
+    {
+        "className": "fas fa-phone-square-alt",
+        "name": "phone-square-alt"
+    },
+    {
+        "className": "fas fa-phone-volume",
+        "name": "phone-volume"
+    },
+    {
+        "className": "fas fa-photo-video",
+        "name": "photo-video"
+    },
+    {
+        "className": "fas fa-piggy-bank",
+        "name": "piggy-bank"
+    },
+    {
+        "className": "fas fa-pills",
+        "name": "pills"
+    },
+    {
+        "className": "fas fa-pizza-slice",
+        "name": "pizza-slice"
+    },
+    {
+        "className": "fas fa-place-of-worship",
+        "name": "place-of-worship"
+    },
+    {
+        "className": "fas fa-plane",
+        "name": "plane"
+    },
+    {
+        "className": "fas fa-plane-arrival",
+        "name": "plane-arrival"
+    },
+    {
+        "className": "fas fa-plane-departure",
+        "name": "plane-departure"
+    },
+    {
+        "className": "fas fa-plane-slash",
+        "name": "plane-slash"
+    },
+    {
+        "className": "fas fa-play",
+        "name": "play"
+    },
+    {
+        "className": "fas fa-play-circle",
+        "name": "play-circle"
+    },
+    {
+        "className": "fas fa-plug",
+        "name": "plug"
+    },
+    {
+        "className": "fas fa-plus",
+        "name": "plus"
+    },
+    {
+        "className": "fas fa-plus-circle",
+        "name": "plus-circle"
+    },
+    {
+        "className": "fas fa-plus-square",
+        "name": "plus-square"
+    },
+    {
+        "className": "fas fa-podcast",
+        "name": "podcast"
+    },
+    {
+        "className": "fas fa-poll",
+        "name": "poll"
+    },
+    {
+        "className": "fas fa-poll-h",
+        "name": "poll-h"
+    },
+    {
+        "className": "fas fa-poo",
+        "name": "poo"
+    },
+    {
+        "className": "fas fa-poo-storm",
+        "name": "poo-storm"
+    },
+    {
+        "className": "fas fa-poop",
+        "name": "poop"
+    },
+    {
+        "className": "fas fa-portrait",
+        "name": "portrait"
+    },
+    {
+        "className": "fas fa-pound-sign",
+        "name": "pound-sign"
+    },
+    {
+        "className": "fas fa-power-off",
+        "name": "power-off"
+    },
+    {
+        "className": "fas fa-pray",
+        "name": "pray"
+    },
+    {
+        "className": "fas fa-praying-hands",
+        "name": "praying-hands"
+    },
+    {
+        "className": "fas fa-prescription",
+        "name": "prescription"
+    },
+    {
+        "className": "fas fa-prescription-bottle",
+        "name": "prescription-bottle"
+    },
+    {
+        "className": "fas fa-prescription-bottle-alt",
+        "name": "prescription-bottle-alt"
+    },
+    {
+        "className": "fas fa-print",
+        "name": "print"
+    },
+    {
+        "className": "fas fa-procedures",
+        "name": "procedures"
+    },
+    {
+        "className": "fas fa-project-diagram",
+        "name": "project-diagram"
+    },
+    {
+        "className": "fas fa-pump-medical",
+        "name": "pump-medical"
+    },
+    {
+        "className": "fas fa-pump-soap",
+        "name": "pump-soap"
+    },
+    {
+        "className": "fas fa-puzzle-piece",
+        "name": "puzzle-piece"
+    },
+    {
+        "className": "fas fa-qrcode",
+        "name": "qrcode"
+    },
+    {
+        "className": "fas fa-question",
+        "name": "question"
+    },
+    {
+        "className": "fas fa-question-circle",
+        "name": "question-circle"
+    },
+    {
+        "className": "fas fa-quidditch",
+        "name": "quidditch"
+    },
+    {
+        "className": "fas fa-quote-left",
+        "name": "quote-left"
+    },
+    {
+        "className": "fas fa-quote-right",
+        "name": "quote-right"
+    },
+    {
+        "className": "fas fa-quran",
+        "name": "quran"
+    },
+    {
+        "className": "fas fa-radiation",
+        "name": "radiation"
+    },
+    {
+        "className": "fas fa-radiation-alt",
+        "name": "radiation-alt"
+    },
+    {
+        "className": "fas fa-rainbow",
+        "name": "rainbow"
+    },
+    {
+        "className": "fas fa-random",
+        "name": "random"
+    },
+    {
+        "className": "fas fa-receipt",
+        "name": "receipt"
+    },
+    {
+        "className": "fas fa-record-vinyl",
+        "name": "record-vinyl"
+    },
+    {
+        "className": "fas fa-recycle",
+        "name": "recycle"
+    },
+    {
+        "className": "fas fa-redo",
+        "name": "redo"
+    },
+    {
+        "className": "fas fa-redo-alt",
+        "name": "redo-alt"
+    },
+    {
+        "className": "fas fa-registered",
+        "name": "registered"
+    },
+    {
+        "className": "fas fa-remove-format",
+        "name": "remove-format"
+    },
+    {
+        "className": "fas fa-reply",
+        "name": "reply"
+    },
+    {
+        "className": "fas fa-reply-all",
+        "name": "reply-all"
+    },
+    {
+        "className": "fas fa-republican",
+        "name": "republican"
+    },
+    {
+        "className": "fas fa-restroom",
+        "name": "restroom"
+    },
+    {
+        "className": "fas fa-retweet",
+        "name": "retweet"
+    },
+    {
+        "className": "fas fa-ribbon",
+        "name": "ribbon"
+    },
+    {
+        "className": "fas fa-ring",
+        "name": "ring"
+    },
+    {
+        "className": "fas fa-road",
+        "name": "road"
+    },
+    {
+        "className": "fas fa-robot",
+        "name": "robot"
+    },
+    {
+        "className": "fas fa-rocket",
+        "name": "rocket"
+    },
+    {
+        "className": "fas fa-route",
+        "name": "route"
+    },
+    {
+        "className": "fas fa-rss",
+        "name": "rss"
+    },
+    {
+        "className": "fas fa-rss-square",
+        "name": "rss-square"
+    },
+    {
+        "className": "fas fa-ruble-sign",
+        "name": "ruble-sign"
+    },
+    {
+        "className": "fas fa-ruler",
+        "name": "ruler"
+    },
+    {
+        "className": "fas fa-ruler-combined",
+        "name": "ruler-combined"
+    },
+    {
+        "className": "fas fa-ruler-horizontal",
+        "name": "ruler-horizontal"
+    },
+    {
+        "className": "fas fa-ruler-vertical",
+        "name": "ruler-vertical"
+    },
+    {
+        "className": "fas fa-running",
+        "name": "running"
+    },
+    {
+        "className": "fas fa-rupee-sign",
+        "name": "rupee-sign"
+    },
+    {
+        "className": "fas fa-sad-cry",
+        "name": "sad-cry"
+    },
+    {
+        "className": "fas fa-sad-tear",
+        "name": "sad-tear"
+    },
+    {
+        "className": "fas fa-satellite",
+        "name": "satellite"
+    },
+    {
+        "className": "fas fa-satellite-dish",
+        "name": "satellite-dish"
+    },
+    {
+        "className": "fas fa-save",
+        "name": "save"
+    },
+    {
+        "className": "fas fa-school",
+        "name": "school"
+    },
+    {
+        "className": "fas fa-screwdriver",
+        "name": "screwdriver"
+    },
+    {
+        "className": "fas fa-scroll",
+        "name": "scroll"
+    },
+    {
+        "className": "fas fa-sd-card",
+        "name": "sd-card"
+    },
+    {
+        "className": "fas fa-search",
+        "name": "search"
+    },
+    {
+        "className": "fas fa-search-dollar",
+        "name": "search-dollar"
+    },
+    {
+        "className": "fas fa-search-location",
+        "name": "search-location"
+    },
+    {
+        "className": "fas fa-search-minus",
+        "name": "search-minus"
+    },
+    {
+        "className": "fas fa-search-plus",
+        "name": "search-plus"
+    },
+    {
+        "className": "fas fa-seedling",
+        "name": "seedling"
+    },
+    {
+        "className": "fas fa-server",
+        "name": "server"
+    },
+    {
+        "className": "fas fa-shapes",
+        "name": "shapes"
+    },
+    {
+        "className": "fas fa-share",
+        "name": "share"
+    },
+    {
+        "className": "fas fa-share-alt",
+        "name": "share-alt"
+    },
+    {
+        "className": "fas fa-share-alt-square",
+        "name": "share-alt-square"
+    },
+    {
+        "className": "fas fa-share-square",
+        "name": "share-square"
+    },
+    {
+        "className": "fas fa-shekel-sign",
+        "name": "shekel-sign"
+    },
+    {
+        "className": "fas fa-shield-alt",
+        "name": "shield-alt"
+    },
+    {
+        "className": "fas fa-shield-virus",
+        "name": "shield-virus"
+    },
+    {
+        "className": "fas fa-ship",
+        "name": "ship"
+    },
+    {
+        "className": "fas fa-shipping-fast",
+        "name": "shipping-fast"
+    },
+    {
+        "className": "fas fa-shoe-prints",
+        "name": "shoe-prints"
+    },
+    {
+        "className": "fas fa-shopping-bag",
+        "name": "shopping-bag"
+    },
+    {
+        "className": "fas fa-shopping-basket",
+        "name": "shopping-basket"
+    },
+    {
+        "className": "fas fa-shopping-cart",
+        "name": "shopping-cart"
+    },
+    {
+        "className": "fas fa-shower",
+        "name": "shower"
+    },
+    {
+        "className": "fas fa-shuttle-van",
+        "name": "shuttle-van"
+    },
+    {
+        "className": "fas fa-sign",
+        "name": "sign"
+    },
+    {
+        "className": "fas fa-sign-in-alt",
+        "name": "sign-in-alt"
+    },
+    {
+        "className": "fas fa-sign-language",
+        "name": "sign-language"
+    },
+    {
+        "className": "fas fa-sign-out-alt",
+        "name": "sign-out-alt"
+    },
+    {
+        "className": "fas fa-signal",
+        "name": "signal"
+    },
+    {
+        "className": "fas fa-signature",
+        "name": "signature"
+    },
+    {
+        "className": "fas fa-sim-card",
+        "name": "sim-card"
+    },
+    {
+        "className": "fas fa-sink",
+        "name": "sink"
+    },
+    {
+        "className": "fas fa-sitemap",
+        "name": "sitemap"
+    },
+    {
+        "className": "fas fa-skating",
+        "name": "skating"
+    },
+    {
+        "className": "fas fa-skiing",
+        "name": "skiing"
+    },
+    {
+        "className": "fas fa-skiing-nordic",
+        "name": "skiing-nordic"
+    },
+    {
+        "className": "fas fa-skull",
+        "name": "skull"
+    },
+    {
+        "className": "fas fa-skull-crossbones",
+        "name": "skull-crossbones"
+    },
+    {
+        "className": "fas fa-slash",
+        "name": "slash"
+    },
+    {
+        "className": "fas fa-sleigh",
+        "name": "sleigh"
+    },
+    {
+        "className": "fas fa-sliders-h",
+        "name": "sliders-h"
+    },
+    {
+        "className": "fas fa-smile",
+        "name": "smile"
+    },
+    {
+        "className": "fas fa-smile-beam",
+        "name": "smile-beam"
+    },
+    {
+        "className": "fas fa-smile-wink",
+        "name": "smile-wink"
+    },
+    {
+        "className": "fas fa-smog",
+        "name": "smog"
+    },
+    {
+        "className": "fas fa-smoking",
+        "name": "smoking"
+    },
+    {
+        "className": "fas fa-smoking-ban",
+        "name": "smoking-ban"
+    },
+    {
+        "className": "fas fa-sms",
+        "name": "sms"
+    },
+    {
+        "className": "fas fa-snowboarding",
+        "name": "snowboarding"
+    },
+    {
+        "className": "fas fa-snowflake",
+        "name": "snowflake"
+    },
+    {
+        "className": "fas fa-snowman",
+        "name": "snowman"
+    },
+    {
+        "className": "fas fa-snowplow",
+        "name": "snowplow"
+    },
+    {
+        "className": "fas fa-soap",
+        "name": "soap"
+    },
+    {
+        "className": "fas fa-socks",
+        "name": "socks"
+    },
+    {
+        "className": "fas fa-solar-panel",
+        "name": "solar-panel"
+    },
+    {
+        "className": "fas fa-sort",
+        "name": "sort"
+    },
+    {
+        "className": "fas fa-sort-alpha-down",
+        "name": "sort-alpha-down"
+    },
+    {
+        "className": "fas fa-sort-alpha-down-alt",
+        "name": "sort-alpha-down-alt"
+    },
+    {
+        "className": "fas fa-sort-alpha-up",
+        "name": "sort-alpha-up"
+    },
+    {
+        "className": "fas fa-sort-alpha-up-alt",
+        "name": "sort-alpha-up-alt"
+    },
+    {
+        "className": "fas fa-sort-amount-down",
+        "name": "sort-amount-down"
+    },
+    {
+        "className": "fas fa-sort-amount-down-alt",
+        "name": "sort-amount-down-alt"
+    },
+    {
+        "className": "fas fa-sort-amount-up",
+        "name": "sort-amount-up"
+    },
+    {
+        "className": "fas fa-sort-amount-up-alt",
+        "name": "sort-amount-up-alt"
+    },
+    {
+        "className": "fas fa-sort-down",
+        "name": "sort-down"
+    },
+    {
+        "className": "fas fa-sort-numeric-down",
+        "name": "sort-numeric-down"
+    },
+    {
+        "className": "fas fa-sort-numeric-down-alt",
+        "name": "sort-numeric-down-alt"
+    },
+    {
+        "className": "fas fa-sort-numeric-up",
+        "name": "sort-numeric-up"
+    },
+    {
+        "className": "fas fa-sort-numeric-up-alt",
+        "name": "sort-numeric-up-alt"
+    },
+    {
+        "className": "fas fa-sort-up",
+        "name": "sort-up"
+    },
+    {
+        "className": "fas fa-spa",
+        "name": "spa"
+    },
+    {
+        "className": "fas fa-space-shuttle",
+        "name": "space-shuttle"
+    },
+    {
+        "className": "fas fa-spell-check",
+        "name": "spell-check"
+    },
+    {
+        "className": "fas fa-spider",
+        "name": "spider"
+    },
+    {
+        "className": "fas fa-spinner",
+        "name": "spinner"
+    },
+    {
+        "className": "fas fa-splotch",
+        "name": "splotch"
+    },
+    {
+        "className": "fas fa-spray-can",
+        "name": "spray-can"
+    },
+    {
+        "className": "fas fa-square",
+        "name": "square"
+    },
+    {
+        "className": "fas fa-square-full",
+        "name": "square-full"
+    },
+    {
+        "className": "fas fa-square-root-alt",
+        "name": "square-root-alt"
+    },
+    {
+        "className": "fas fa-stamp",
+        "name": "stamp"
+    },
+    {
+        "className": "fas fa-star",
+        "name": "star"
+    },
+    {
+        "className": "fas fa-star-and-crescent",
+        "name": "star-and-crescent"
+    },
+    {
+        "className": "fas fa-star-half",
+        "name": "star-half"
+    },
+    {
+        "className": "fas fa-star-half-alt",
+        "name": "star-half-alt"
+    },
+    {
+        "className": "fas fa-star-of-david",
+        "name": "star-of-david"
+    },
+    {
+        "className": "fas fa-star-of-life",
+        "name": "star-of-life"
+    },
+    {
+        "className": "fas fa-step-backward",
+        "name": "step-backward"
+    },
+    {
+        "className": "fas fa-step-forward",
+        "name": "step-forward"
+    },
+    {
+        "className": "fas fa-stethoscope",
+        "name": "stethoscope"
+    },
+    {
+        "className": "fas fa-sticky-note",
+        "name": "sticky-note"
+    },
+    {
+        "className": "fas fa-stop",
+        "name": "stop"
+    },
+    {
+        "className": "fas fa-stop-circle",
+        "name": "stop-circle"
+    },
+    {
+        "className": "fas fa-stopwatch",
+        "name": "stopwatch"
+    },
+    {
+        "className": "fas fa-stopwatch-20",
+        "name": "stopwatch-20"
+    },
+    {
+        "className": "fas fa-store",
+        "name": "store"
+    },
+    {
+        "className": "fas fa-store-alt",
+        "name": "store-alt"
+    },
+    {
+        "className": "fas fa-store-alt-slash",
+        "name": "store-alt-slash"
+    },
+    {
+        "className": "fas fa-store-slash",
+        "name": "store-slash"
+    },
+    {
+        "className": "fas fa-stream",
+        "name": "stream"
+    },
+    {
+        "className": "fas fa-street-view",
+        "name": "street-view"
+    },
+    {
+        "className": "fas fa-strikethrough",
+        "name": "strikethrough"
+    },
+    {
+        "className": "fas fa-stroopwafel",
+        "name": "stroopwafel"
+    },
+    {
+        "className": "fas fa-subscript",
+        "name": "subscript"
+    },
+    {
+        "className": "fas fa-subway",
+        "name": "subway"
+    },
+    {
+        "className": "fas fa-suitcase",
+        "name": "suitcase"
+    },
+    {
+        "className": "fas fa-suitcase-rolling",
+        "name": "suitcase-rolling"
+    },
+    {
+        "className": "fas fa-sun",
+        "name": "sun"
+    },
+    {
+        "className": "fas fa-superscript",
+        "name": "superscript"
+    },
+    {
+        "className": "fas fa-surprise",
+        "name": "surprise"
+    },
+    {
+        "className": "fas fa-swatchbook",
+        "name": "swatchbook"
+    },
+    {
+        "className": "fas fa-swimmer",
+        "name": "swimmer"
+    },
+    {
+        "className": "fas fa-swimming-pool",
+        "name": "swimming-pool"
+    },
+    {
+        "className": "fas fa-synagogue",
+        "name": "synagogue"
+    },
+    {
+        "className": "fas fa-sync",
+        "name": "sync"
+    },
+    {
+        "className": "fas fa-sync-alt",
+        "name": "sync-alt"
+    },
+    {
+        "className": "fas fa-syringe",
+        "name": "syringe"
+    },
+    {
+        "className": "fas fa-table",
+        "name": "table"
+    },
+    {
+        "className": "fas fa-table-tennis",
+        "name": "table-tennis"
+    },
+    {
+        "className": "fas fa-tablet",
+        "name": "tablet"
+    },
+    {
+        "className": "fas fa-tablet-alt",
+        "name": "tablet-alt"
+    },
+    {
+        "className": "fas fa-tablets",
+        "name": "tablets"
+    },
+    {
+        "className": "fas fa-tachometer-alt",
+        "name": "tachometer-alt"
+    },
+    {
+        "className": "fas fa-tag",
+        "name": "tag"
+    },
+    {
+        "className": "fas fa-tags",
+        "name": "tags"
+    },
+    {
+        "className": "fas fa-tape",
+        "name": "tape"
+    },
+    {
+        "className": "fas fa-tasks",
+        "name": "tasks"
+    },
+    {
+        "className": "fas fa-taxi",
+        "name": "taxi"
+    },
+    {
+        "className": "fas fa-teeth",
+        "name": "teeth"
+    },
+    {
+        "className": "fas fa-teeth-open",
+        "name": "teeth-open"
+    },
+    {
+        "className": "fas fa-temperature-high",
+        "name": "temperature-high"
+    },
+    {
+        "className": "fas fa-temperature-low",
+        "name": "temperature-low"
+    },
+    {
+        "className": "fas fa-tenge",
+        "name": "tenge"
+    },
+    {
+        "className": "fas fa-terminal",
+        "name": "terminal"
+    },
+    {
+        "className": "fas fa-text-height",
+        "name": "text-height"
+    },
+    {
+        "className": "fas fa-text-width",
+        "name": "text-width"
+    },
+    {
+        "className": "fas fa-th",
+        "name": "th"
+    },
+    {
+        "className": "fas fa-th-large",
+        "name": "th-large"
+    },
+    {
+        "className": "fas fa-th-list",
+        "name": "th-list"
+    },
+    {
+        "className": "fas fa-theater-masks",
+        "name": "theater-masks"
+    },
+    {
+        "className": "fas fa-thermometer",
+        "name": "thermometer"
+    },
+    {
+        "className": "fas fa-thermometer-empty",
+        "name": "thermometer-empty"
+    },
+    {
+        "className": "fas fa-thermometer-full",
+        "name": "thermometer-full"
+    },
+    {
+        "className": "fas fa-thermometer-half",
+        "name": "thermometer-half"
+    },
+    {
+        "className": "fas fa-thermometer-quarter",
+        "name": "thermometer-quarter"
+    },
+    {
+        "className": "fas fa-thermometer-three-quarters",
+        "name": "thermometer-three-quarters"
+    },
+    {
+        "className": "fas fa-thumbs-down",
+        "name": "thumbs-down"
+    },
+    {
+        "className": "fas fa-thumbs-up",
+        "name": "thumbs-up"
+    },
+    {
+        "className": "fas fa-thumbtack",
+        "name": "thumbtack"
+    },
+    {
+        "className": "fas fa-ticket-alt",
+        "name": "ticket-alt"
+    },
+    {
+        "className": "fas fa-times",
+        "name": "times"
+    },
+    {
+        "className": "fas fa-times-circle",
+        "name": "times-circle"
+    },
+    {
+        "className": "fas fa-tint",
+        "name": "tint"
+    },
+    {
+        "className": "fas fa-tint-slash",
+        "name": "tint-slash"
+    },
+    {
+        "className": "fas fa-tired",
+        "name": "tired"
+    },
+    {
+        "className": "fas fa-toggle-off",
+        "name": "toggle-off"
+    },
+    {
+        "className": "fas fa-toggle-on",
+        "name": "toggle-on"
+    },
+    {
+        "className": "fas fa-toilet",
+        "name": "toilet"
+    },
+    {
+        "className": "fas fa-toilet-paper",
+        "name": "toilet-paper"
+    },
+    {
+        "className": "fas fa-toilet-paper-slash",
+        "name": "toilet-paper-slash"
+    },
+    {
+        "className": "fas fa-toolbox",
+        "name": "toolbox"
+    },
+    {
+        "className": "fas fa-tools",
+        "name": "tools"
+    },
+    {
+        "className": "fas fa-tooth",
+        "name": "tooth"
+    },
+    {
+        "className": "fas fa-torah",
+        "name": "torah"
+    },
+    {
+        "className": "fas fa-torii-gate",
+        "name": "torii-gate"
+    },
+    {
+        "className": "fas fa-tractor",
+        "name": "tractor"
+    },
+    {
+        "className": "fas fa-trademark",
+        "name": "trademark"
+    },
+    {
+        "className": "fas fa-traffic-light",
+        "name": "traffic-light"
+    },
+    {
+        "className": "fas fa-trailer",
+        "name": "trailer"
+    },
+    {
+        "className": "fas fa-train",
+        "name": "train"
+    },
+    {
+        "className": "fas fa-tram",
+        "name": "tram"
+    },
+    {
+        "className": "fas fa-transgender",
+        "name": "transgender"
+    },
+    {
+        "className": "fas fa-transgender-alt",
+        "name": "transgender-alt"
+    },
+    {
+        "className": "fas fa-trash",
+        "name": "trash"
+    },
+    {
+        "className": "fas fa-trash-alt",
+        "name": "trash-alt"
+    },
+    {
+        "className": "fas fa-trash-restore",
+        "name": "trash-restore"
+    },
+    {
+        "className": "fas fa-trash-restore-alt",
+        "name": "trash-restore-alt"
+    },
+    {
+        "className": "fas fa-tree",
+        "name": "tree"
+    },
+    {
+        "className": "fas fa-trophy",
+        "name": "trophy"
+    },
+    {
+        "className": "fas fa-truck",
+        "name": "truck"
+    },
+    {
+        "className": "fas fa-truck-loading",
+        "name": "truck-loading"
+    },
+    {
+        "className": "fas fa-truck-monster",
+        "name": "truck-monster"
+    },
+    {
+        "className": "fas fa-truck-moving",
+        "name": "truck-moving"
+    },
+    {
+        "className": "fas fa-truck-pickup",
+        "name": "truck-pickup"
+    },
+    {
+        "className": "fas fa-tshirt",
+        "name": "tshirt"
+    },
+    {
+        "className": "fas fa-tty",
+        "name": "tty"
+    },
+    {
+        "className": "fas fa-tv",
+        "name": "tv"
+    },
+    {
+        "className": "fas fa-umbrella",
+        "name": "umbrella"
+    },
+    {
+        "className": "fas fa-umbrella-beach",
+        "name": "umbrella-beach"
+    },
+    {
+        "className": "fas fa-underline",
+        "name": "underline"
+    },
+    {
+        "className": "fas fa-undo",
+        "name": "undo"
+    },
+    {
+        "className": "fas fa-undo-alt",
+        "name": "undo-alt"
+    },
+    {
+        "className": "fas fa-universal-access",
+        "name": "universal-access"
+    },
+    {
+        "className": "fas fa-university",
+        "name": "university"
+    },
+    {
+        "className": "fas fa-unlink",
+        "name": "unlink"
+    },
+    {
+        "className": "fas fa-unlock",
+        "name": "unlock"
+    },
+    {
+        "className": "fas fa-unlock-alt",
+        "name": "unlock-alt"
+    },
+    {
+        "className": "fas fa-upload",
+        "name": "upload"
+    },
+    {
+        "className": "fas fa-user",
+        "name": "user"
+    },
+    {
+        "className": "fas fa-user-alt",
+        "name": "user-alt"
+    },
+    {
+        "className": "fas fa-user-alt-slash",
+        "name": "user-alt-slash"
+    },
+    {
+        "className": "fas fa-user-astronaut",
+        "name": "user-astronaut"
+    },
+    {
+        "className": "fas fa-user-check",
+        "name": "user-check"
+    },
+    {
+        "className": "fas fa-user-circle",
+        "name": "user-circle"
+    },
+    {
+        "className": "fas fa-user-clock",
+        "name": "user-clock"
+    },
+    {
+        "className": "fas fa-user-cog",
+        "name": "user-cog"
+    },
+    {
+        "className": "fas fa-user-edit",
+        "name": "user-edit"
+    },
+    {
+        "className": "fas fa-user-friends",
+        "name": "user-friends"
+    },
+    {
+        "className": "fas fa-user-graduate",
+        "name": "user-graduate"
+    },
+    {
+        "className": "fas fa-user-injured",
+        "name": "user-injured"
+    },
+    {
+        "className": "fas fa-user-lock",
+        "name": "user-lock"
+    },
+    {
+        "className": "fas fa-user-md",
+        "name": "user-md"
+    },
+    {
+        "className": "fas fa-user-minus",
+        "name": "user-minus"
+    },
+    {
+        "className": "fas fa-user-ninja",
+        "name": "user-ninja"
+    },
+    {
+        "className": "fas fa-user-nurse",
+        "name": "user-nurse"
+    },
+    {
+        "className": "fas fa-user-plus",
+        "name": "user-plus"
+    },
+    {
+        "className": "fas fa-user-secret",
+        "name": "user-secret"
+    },
+    {
+        "className": "fas fa-user-shield",
+        "name": "user-shield"
+    },
+    {
+        "className": "fas fa-user-slash",
+        "name": "user-slash"
+    },
+    {
+        "className": "fas fa-user-tag",
+        "name": "user-tag"
+    },
+    {
+        "className": "fas fa-user-tie",
+        "name": "user-tie"
+    },
+    {
+        "className": "fas fa-user-times",
+        "name": "user-times"
+    },
+    {
+        "className": "fas fa-users",
+        "name": "users"
+    },
+    {
+        "className": "fas fa-users-cog",
+        "name": "users-cog"
+    },
+    {
+        "className": "fas fa-users-slash",
+        "name": "users-slash"
+    },
+    {
+        "className": "fas fa-utensil-spoon",
+        "name": "utensil-spoon"
+    },
+    {
+        "className": "fas fa-utensils",
+        "name": "utensils"
+    },
+    {
+        "className": "fas fa-vector-square",
+        "name": "vector-square"
+    },
+    {
+        "className": "fas fa-venus",
+        "name": "venus"
+    },
+    {
+        "className": "fas fa-venus-double",
+        "name": "venus-double"
+    },
+    {
+        "className": "fas fa-venus-mars",
+        "name": "venus-mars"
+    },
+    {
+        "className": "fas fa-vest",
+        "name": "vest"
+    },
+    {
+        "className": "fas fa-vest-patches",
+        "name": "vest-patches"
+    },
+    {
+        "className": "fas fa-vial",
+        "name": "vial"
+    },
+    {
+        "className": "fas fa-vials",
+        "name": "vials"
+    },
+    {
+        "className": "fas fa-video",
+        "name": "video"
+    },
+    {
+        "className": "fas fa-video-slash",
+        "name": "video-slash"
+    },
+    {
+        "className": "fas fa-vihara",
+        "name": "vihara"
+    },
+    {
+        "className": "fas fa-virus",
+        "name": "virus"
+    },
+    {
+        "className": "fas fa-virus-slash",
+        "name": "virus-slash"
+    },
+    {
+        "className": "fas fa-viruses",
+        "name": "viruses"
+    },
+    {
+        "className": "fas fa-voicemail",
+        "name": "voicemail"
+    },
+    {
+        "className": "fas fa-volleyball-ball",
+        "name": "volleyball-ball"
+    },
+    {
+        "className": "fas fa-volume-down",
+        "name": "volume-down"
+    },
+    {
+        "className": "fas fa-volume-mute",
+        "name": "volume-mute"
+    },
+    {
+        "className": "fas fa-volume-off",
+        "name": "volume-off"
+    },
+    {
+        "className": "fas fa-volume-up",
+        "name": "volume-up"
+    },
+    {
+        "className": "fas fa-vote-yea",
+        "name": "vote-yea"
+    },
+    {
+        "className": "fas fa-vr-cardboard",
+        "name": "vr-cardboard"
+    },
+    {
+        "className": "fas fa-walking",
+        "name": "walking"
+    },
+    {
+        "className": "fas fa-wallet",
+        "name": "wallet"
+    },
+    {
+        "className": "fas fa-warehouse",
+        "name": "warehouse"
+    },
+    {
+        "className": "fas fa-water",
+        "name": "water"
+    },
+    {
+        "className": "fas fa-wave-square",
+        "name": "wave-square"
+    },
+    {
+        "className": "fas fa-weight",
+        "name": "weight"
+    },
+    {
+        "className": "fas fa-weight-hanging",
+        "name": "weight-hanging"
+    },
+    {
+        "className": "fas fa-wheelchair",
+        "name": "wheelchair"
+    },
+    {
+        "className": "fas fa-wifi",
+        "name": "wifi"
+    },
+    {
+        "className": "fas fa-wind",
+        "name": "wind"
+    },
+    {
+        "className": "fas fa-window-close",
+        "name": "window-close"
+    },
+    {
+        "className": "fas fa-window-maximize",
+        "name": "window-maximize"
+    },
+    {
+        "className": "fas fa-window-minimize",
+        "name": "window-minimize"
+    },
+    {
+        "className": "fas fa-window-restore",
+        "name": "window-restore"
+    },
+    {
+        "className": "fas fa-wine-bottle",
+        "name": "wine-bottle"
+    },
+    {
+        "className": "fas fa-wine-glass",
+        "name": "wine-glass"
+    },
+    {
+        "className": "fas fa-wine-glass-alt",
+        "name": "wine-glass-alt"
+    },
+    {
+        "className": "fas fa-won-sign",
+        "name": "won-sign"
+    },
+    {
+        "className": "fas fa-wrench",
+        "name": "wrench"
+    },
+    {
+        "className": "fas fa-x-ray",
+        "name": "x-ray"
+    },
+    {
+        "className": "fas fa-yen-sign",
+        "name": "yen-sign"
+    },
+    {
+        "className": "fas fa-yin-yang",
+        "name": "yin-yang"
+    },
+    {
+        "className": "far fa-address-book",
+        "name": "address-book"
+    },
+    {
+        "className": "far fa-address-card",
+        "name": "address-card"
+    },
+    {
+        "className": "far fa-angry",
+        "name": "angry"
+    },
+    {
+        "className": "far fa-arrow-alt-circle-down",
+        "name": "arrow-alt-circle-down"
+    },
+    {
+        "className": "far fa-arrow-alt-circle-left",
+        "name": "arrow-alt-circle-left"
+    },
+    {
+        "className": "far fa-arrow-alt-circle-right",
+        "name": "arrow-alt-circle-right"
+    },
+    {
+        "className": "far fa-arrow-alt-circle-up",
+        "name": "arrow-alt-circle-up"
+    },
+    {
+        "className": "far fa-bell",
+        "name": "bell"
+    },
+    {
+        "className": "far fa-bell-slash",
+        "name": "bell-slash"
+    },
+    {
+        "className": "far fa-bookmark",
+        "name": "bookmark"
+    },
+    {
+        "className": "far fa-building",
+        "name": "building"
+    },
+    {
+        "className": "far fa-calendar",
+        "name": "calendar"
+    },
+    {
+        "className": "far fa-calendar-alt",
+        "name": "calendar-alt"
+    },
+    {
+        "className": "far fa-calendar-check",
+        "name": "calendar-check"
+    },
+    {
+        "className": "far fa-calendar-minus",
+        "name": "calendar-minus"
+    },
+    {
+        "className": "far fa-calendar-plus",
+        "name": "calendar-plus"
+    },
+    {
+        "className": "far fa-calendar-times",
+        "name": "calendar-times"
+    },
+    {
+        "className": "far fa-caret-square-down",
+        "name": "caret-square-down"
+    },
+    {
+        "className": "far fa-caret-square-left",
+        "name": "caret-square-left"
+    },
+    {
+        "className": "far fa-caret-square-right",
+        "name": "caret-square-right"
+    },
+    {
+        "className": "far fa-caret-square-up",
+        "name": "caret-square-up"
+    },
+    {
+        "className": "far fa-chart-bar",
+        "name": "chart-bar"
+    },
+    {
+        "className": "far fa-check-circle",
+        "name": "check-circle"
+    },
+    {
+        "className": "far fa-check-square",
+        "name": "check-square"
+    },
+    {
+        "className": "far fa-circle",
+        "name": "circle"
+    },
+    {
+        "className": "far fa-clipboard",
+        "name": "clipboard"
+    },
+    {
+        "className": "far fa-clock",
+        "name": "clock"
+    },
+    {
+        "className": "far fa-clone",
+        "name": "clone"
+    },
+    {
+        "className": "far fa-closed-captioning",
+        "name": "closed-captioning"
+    },
+    {
+        "className": "far fa-comment",
+        "name": "comment"
+    },
+    {
+        "className": "far fa-comment-alt",
+        "name": "comment-alt"
+    },
+    {
+        "className": "far fa-comment-dots",
+        "name": "comment-dots"
+    },
+    {
+        "className": "far fa-comments",
+        "name": "comments"
+    },
+    {
+        "className": "far fa-compass",
+        "name": "compass"
+    },
+    {
+        "className": "far fa-copy",
+        "name": "copy"
+    },
+    {
+        "className": "far fa-copyright",
+        "name": "copyright"
+    },
+    {
+        "className": "far fa-credit-card",
+        "name": "credit-card"
+    },
+    {
+        "className": "far fa-dizzy",
+        "name": "dizzy"
+    },
+    {
+        "className": "far fa-dot-circle",
+        "name": "dot-circle"
+    },
+    {
+        "className": "far fa-edit",
+        "name": "edit"
+    },
+    {
+        "className": "far fa-envelope",
+        "name": "envelope"
+    },
+    {
+        "className": "far fa-envelope-open",
+        "name": "envelope-open"
+    },
+    {
+        "className": "far fa-eye",
+        "name": "eye"
+    },
+    {
+        "className": "far fa-eye-slash",
+        "name": "eye-slash"
+    },
+    {
+        "className": "far fa-file",
+        "name": "file"
+    },
+    {
+        "className": "far fa-file-alt",
+        "name": "file-alt"
+    },
+    {
+        "className": "far fa-file-archive",
+        "name": "file-archive"
+    },
+    {
+        "className": "far fa-file-audio",
+        "name": "file-audio"
+    },
+    {
+        "className": "far fa-file-code",
+        "name": "file-code"
+    },
+    {
+        "className": "far fa-file-excel",
+        "name": "file-excel"
+    },
+    {
+        "className": "far fa-file-image",
+        "name": "file-image"
+    },
+    {
+        "className": "far fa-file-pdf",
+        "name": "file-pdf"
+    },
+    {
+        "className": "far fa-file-powerpoint",
+        "name": "file-powerpoint"
+    },
+    {
+        "className": "far fa-file-video",
+        "name": "file-video"
+    },
+    {
+        "className": "far fa-file-word",
+        "name": "file-word"
+    },
+    {
+        "className": "far fa-flag",
+        "name": "flag"
+    },
+    {
+        "className": "far fa-flushed",
+        "name": "flushed"
+    },
+    {
+        "className": "far fa-folder",
+        "name": "folder"
+    },
+    {
+        "className": "far fa-folder-open",
+        "name": "folder-open"
+    },
+    {
+        "className": "far fa-frown",
+        "name": "frown"
+    },
+    {
+        "className": "far fa-frown-open",
+        "name": "frown-open"
+    },
+    {
+        "className": "far fa-futbol",
+        "name": "futbol"
+    },
+    {
+        "className": "far fa-gem",
+        "name": "gem"
+    },
+    {
+        "className": "far fa-grimace",
+        "name": "grimace"
+    },
+    {
+        "className": "far fa-grin",
+        "name": "grin"
+    },
+    {
+        "className": "far fa-grin-alt",
+        "name": "grin-alt"
+    },
+    {
+        "className": "far fa-grin-beam",
+        "name": "grin-beam"
+    },
+    {
+        "className": "far fa-grin-beam-sweat",
+        "name": "grin-beam-sweat"
+    },
+    {
+        "className": "far fa-grin-hearts",
+        "name": "grin-hearts"
+    },
+    {
+        "className": "far fa-grin-squint",
+        "name": "grin-squint"
+    },
+    {
+        "className": "far fa-grin-squint-tears",
+        "name": "grin-squint-tears"
+    },
+    {
+        "className": "far fa-grin-stars",
+        "name": "grin-stars"
+    },
+    {
+        "className": "far fa-grin-tears",
+        "name": "grin-tears"
+    },
+    {
+        "className": "far fa-grin-tongue",
+        "name": "grin-tongue"
+    },
+    {
+        "className": "far fa-grin-tongue-squint",
+        "name": "grin-tongue-squint"
+    },
+    {
+        "className": "far fa-grin-tongue-wink",
+        "name": "grin-tongue-wink"
+    },
+    {
+        "className": "far fa-grin-wink",
+        "name": "grin-wink"
+    },
+    {
+        "className": "far fa-hand-lizard",
+        "name": "hand-lizard"
+    },
+    {
+        "className": "far fa-hand-paper",
+        "name": "hand-paper"
+    },
+    {
+        "className": "far fa-hand-peace",
+        "name": "hand-peace"
+    },
+    {
+        "className": "far fa-hand-point-down",
+        "name": "hand-point-down"
+    },
+    {
+        "className": "far fa-hand-point-left",
+        "name": "hand-point-left"
+    },
+    {
+        "className": "far fa-hand-point-right",
+        "name": "hand-point-right"
+    },
+    {
+        "className": "far fa-hand-point-up",
+        "name": "hand-point-up"
+    },
+    {
+        "className": "far fa-hand-pointer",
+        "name": "hand-pointer"
+    },
+    {
+        "className": "far fa-hand-rock",
+        "name": "hand-rock"
+    },
+    {
+        "className": "far fa-hand-scissors",
+        "name": "hand-scissors"
+    },
+    {
+        "className": "far fa-hand-spock",
+        "name": "hand-spock"
+    },
+    {
+        "className": "far fa-handshake",
+        "name": "handshake"
+    },
+    {
+        "className": "far fa-hdd",
+        "name": "hdd"
+    },
+    {
+        "className": "far fa-heart",
+        "name": "heart"
+    },
+    {
+        "className": "far fa-hospital",
+        "name": "hospital"
+    },
+    {
+        "className": "far fa-hourglass",
+        "name": "hourglass"
+    },
+    {
+        "className": "far fa-id-badge",
+        "name": "id-badge"
+    },
+    {
+        "className": "far fa-id-card",
+        "name": "id-card"
+    },
+    {
+        "className": "far fa-image",
+        "name": "image"
+    },
+    {
+        "className": "far fa-images",
+        "name": "images"
+    },
+    {
+        "className": "far fa-keyboard",
+        "name": "keyboard"
+    },
+    {
+        "className": "far fa-kiss",
+        "name": "kiss"
+    },
+    {
+        "className": "far fa-kiss-beam",
+        "name": "kiss-beam"
+    },
+    {
+        "className": "far fa-kiss-wink-heart",
+        "name": "kiss-wink-heart"
+    },
+    {
+        "className": "far fa-laugh",
+        "name": "laugh"
+    },
+    {
+        "className": "far fa-laugh-beam",
+        "name": "laugh-beam"
+    },
+    {
+        "className": "far fa-laugh-squint",
+        "name": "laugh-squint"
+    },
+    {
+        "className": "far fa-laugh-wink",
+        "name": "laugh-wink"
+    },
+    {
+        "className": "far fa-lemon",
+        "name": "lemon"
+    },
+    {
+        "className": "far fa-life-ring",
+        "name": "life-ring"
+    },
+    {
+        "className": "far fa-lightbulb",
+        "name": "lightbulb"
+    },
+    {
+        "className": "far fa-list-alt",
+        "name": "list-alt"
+    },
+    {
+        "className": "far fa-map",
+        "name": "map"
+    },
+    {
+        "className": "far fa-meh",
+        "name": "meh"
+    },
+    {
+        "className": "far fa-meh-blank",
+        "name": "meh-blank"
+    },
+    {
+        "className": "far fa-meh-rolling-eyes",
+        "name": "meh-rolling-eyes"
+    },
+    {
+        "className": "far fa-minus-square",
+        "name": "minus-square"
+    },
+    {
+        "className": "far fa-money-bill-alt",
+        "name": "money-bill-alt"
+    },
+    {
+        "className": "far fa-moon",
+        "name": "moon"
+    },
+    {
+        "className": "far fa-newspaper",
+        "name": "newspaper"
+    },
+    {
+        "className": "far fa-object-group",
+        "name": "object-group"
+    },
+    {
+        "className": "far fa-object-ungroup",
+        "name": "object-ungroup"
+    },
+    {
+        "className": "far fa-paper-plane",
+        "name": "paper-plane"
+    },
+    {
+        "className": "far fa-pause-circle",
+        "name": "pause-circle"
+    },
+    {
+        "className": "far fa-play-circle",
+        "name": "play-circle"
+    },
+    {
+        "className": "far fa-plus-square",
+        "name": "plus-square"
+    },
+    {
+        "className": "far fa-question-circle",
+        "name": "question-circle"
+    },
+    {
+        "className": "far fa-registered",
+        "name": "registered"
+    },
+    {
+        "className": "far fa-sad-cry",
+        "name": "sad-cry"
+    },
+    {
+        "className": "far fa-sad-tear",
+        "name": "sad-tear"
+    },
+    {
+        "className": "far fa-save",
+        "name": "save"
+    },
+    {
+        "className": "far fa-share-square",
+        "name": "share-square"
+    },
+    {
+        "className": "far fa-smile",
+        "name": "smile"
+    },
+    {
+        "className": "far fa-smile-beam",
+        "name": "smile-beam"
+    },
+    {
+        "className": "far fa-smile-wink",
+        "name": "smile-wink"
+    },
+    {
+        "className": "far fa-snowflake",
+        "name": "snowflake"
+    },
+    {
+        "className": "far fa-square",
+        "name": "square"
+    },
+    {
+        "className": "far fa-star",
+        "name": "star"
+    },
+    {
+        "className": "far fa-star-half",
+        "name": "star-half"
+    },
+    {
+        "className": "far fa-sticky-note",
+        "name": "sticky-note"
+    },
+    {
+        "className": "far fa-stop-circle",
+        "name": "stop-circle"
+    },
+    {
+        "className": "far fa-sun",
+        "name": "sun"
+    },
+    {
+        "className": "far fa-surprise",
+        "name": "surprise"
+    },
+    {
+        "className": "far fa-thumbs-down",
+        "name": "thumbs-down"
+    },
+    {
+        "className": "far fa-thumbs-up",
+        "name": "thumbs-up"
+    },
+    {
+        "className": "far fa-times-circle",
+        "name": "times-circle"
+    },
+    {
+        "className": "far fa-tired",
+        "name": "tired"
+    },
+    {
+        "className": "far fa-trash-alt",
+        "name": "trash-alt"
+    },
+    {
+        "className": "far fa-user",
+        "name": "user"
+    },
+    {
+        "className": "far fa-user-circle",
+        "name": "user-circle"
+    },
+    {
+        "className": "far fa-window-close",
+        "name": "window-close"
+    },
+    {
+        "className": "far fa-window-maximize",
+        "name": "window-maximize"
+    },
+    {
+        "className": "far fa-window-minimize",
+        "name": "window-minimize"
+    },
+    {
+        "className": "far fa-window-restore",
+        "name": "window-restore"
+    },
+    {
+        "className": "fab fa-500px",
+        "name": "500px"
+    },
+    {
+        "className": "fab fa-accessible-icon",
+        "name": "accessible-icon"
+    },
+    {
+        "className": "fab fa-accusoft",
+        "name": "accusoft"
+    },
+    {
+        "className": "fab fa-acquisitions-incorporated",
+        "name": "acquisitions-incorporated"
+    },
+    {
+        "className": "fab fa-adn",
+        "name": "adn"
+    },
+    {
+        "className": "fab fa-adversal",
+        "name": "adversal"
+    },
+    {
+        "className": "fab fa-affiliatetheme",
+        "name": "affiliatetheme"
+    },
+    {
+        "className": "fab fa-airbnb",
+        "name": "airbnb"
+    },
+    {
+        "className": "fab fa-algolia",
+        "name": "algolia"
+    },
+    {
+        "className": "fab fa-alipay",
+        "name": "alipay"
+    },
+    {
+        "className": "fab fa-amazon",
+        "name": "amazon"
+    },
+    {
+        "className": "fab fa-amazon-pay",
+        "name": "amazon-pay"
+    },
+    {
+        "className": "fab fa-amilia",
+        "name": "amilia"
+    },
+    {
+        "className": "fab fa-android",
+        "name": "android"
+    },
+    {
+        "className": "fab fa-angellist",
+        "name": "angellist"
+    },
+    {
+        "className": "fab fa-angrycreative",
+        "name": "angrycreative"
+    },
+    {
+        "className": "fab fa-angular",
+        "name": "angular"
+    },
+    {
+        "className": "fab fa-app-store",
+        "name": "app-store"
+    },
+    {
+        "className": "fab fa-app-store-ios",
+        "name": "app-store-ios"
+    },
+    {
+        "className": "fab fa-apper",
+        "name": "apper"
+    },
+    {
+        "className": "fab fa-apple",
+        "name": "apple"
+    },
+    {
+        "className": "fab fa-apple-pay",
+        "name": "apple-pay"
+    },
+    {
+        "className": "fab fa-artstation",
+        "name": "artstation"
+    },
+    {
+        "className": "fab fa-asymmetrik",
+        "name": "asymmetrik"
+    },
+    {
+        "className": "fab fa-atlassian",
+        "name": "atlassian"
+    },
+    {
+        "className": "fab fa-audible",
+        "name": "audible"
+    },
+    {
+        "className": "fab fa-autoprefixer",
+        "name": "autoprefixer"
+    },
+    {
+        "className": "fab fa-avianex",
+        "name": "avianex"
+    },
+    {
+        "className": "fab fa-aviato",
+        "name": "aviato"
+    },
+    {
+        "className": "fab fa-aws",
+        "name": "aws"
+    },
+    {
+        "className": "fab fa-bandcamp",
+        "name": "bandcamp"
+    },
+    {
+        "className": "fab fa-battle-net",
+        "name": "battle-net"
+    },
+    {
+        "className": "fab fa-behance",
+        "name": "behance"
+    },
+    {
+        "className": "fab fa-behance-square",
+        "name": "behance-square"
+    },
+    {
+        "className": "fab fa-bimobject",
+        "name": "bimobject"
+    },
+    {
+        "className": "fab fa-bitbucket",
+        "name": "bitbucket"
+    },
+    {
+        "className": "fab fa-bitcoin",
+        "name": "bitcoin"
+    },
+    {
+        "className": "fab fa-bity",
+        "name": "bity"
+    },
+    {
+        "className": "fab fa-black-tie",
+        "name": "black-tie"
+    },
+    {
+        "className": "fab fa-blackberry",
+        "name": "blackberry"
+    },
+    {
+        "className": "fab fa-blogger",
+        "name": "blogger"
+    },
+    {
+        "className": "fab fa-blogger-b",
+        "name": "blogger-b"
+    },
+    {
+        "className": "fab fa-bluetooth",
+        "name": "bluetooth"
+    },
+    {
+        "className": "fab fa-bluetooth-b",
+        "name": "bluetooth-b"
+    },
+    {
+        "className": "fab fa-bootstrap",
+        "name": "bootstrap"
+    },
+    {
+        "className": "fab fa-btc",
+        "name": "btc"
+    },
+    {
+        "className": "fab fa-buffer",
+        "name": "buffer"
+    },
+    {
+        "className": "fab fa-buromobelexperte",
+        "name": "buromobelexperte"
+    },
+    {
+        "className": "fab fa-buy-n-large",
+        "name": "buy-n-large"
+    },
+    {
+        "className": "fab fa-buysellads",
+        "name": "buysellads"
+    },
+    {
+        "className": "fab fa-canadian-maple-leaf",
+        "name": "canadian-maple-leaf"
+    },
+    {
+        "className": "fab fa-cc-amazon-pay",
+        "name": "cc-amazon-pay"
+    },
+    {
+        "className": "fab fa-cc-amex",
+        "name": "cc-amex"
+    },
+    {
+        "className": "fab fa-cc-apple-pay",
+        "name": "cc-apple-pay"
+    },
+    {
+        "className": "fab fa-cc-diners-club",
+        "name": "cc-diners-club"
+    },
+    {
+        "className": "fab fa-cc-discover",
+        "name": "cc-discover"
+    },
+    {
+        "className": "fab fa-cc-jcb",
+        "name": "cc-jcb"
+    },
+    {
+        "className": "fab fa-cc-mastercard",
+        "name": "cc-mastercard"
+    },
+    {
+        "className": "fab fa-cc-paypal",
+        "name": "cc-paypal"
+    },
+    {
+        "className": "fab fa-cc-stripe",
+        "name": "cc-stripe"
+    },
+    {
+        "className": "fab fa-cc-visa",
+        "name": "cc-visa"
+    },
+    {
+        "className": "fab fa-centercode",
+        "name": "centercode"
+    },
+    {
+        "className": "fab fa-centos",
+        "name": "centos"
+    },
+    {
+        "className": "fab fa-chrome",
+        "name": "chrome"
+    },
+    {
+        "className": "fab fa-chromecast",
+        "name": "chromecast"
+    },
+    {
+        "className": "fab fa-cloudflare",
+        "name": "cloudflare"
+    },
+    {
+        "className": "fab fa-cloudscale",
+        "name": "cloudscale"
+    },
+    {
+        "className": "fab fa-cloudsmith",
+        "name": "cloudsmith"
+    },
+    {
+        "className": "fab fa-cloudversify",
+        "name": "cloudversify"
+    },
+    {
+        "className": "fab fa-codepen",
+        "name": "codepen"
+    },
+    {
+        "className": "fab fa-codiepie",
+        "name": "codiepie"
+    },
+    {
+        "className": "fab fa-confluence",
+        "name": "confluence"
+    },
+    {
+        "className": "fab fa-connectdevelop",
+        "name": "connectdevelop"
+    },
+    {
+        "className": "fab fa-contao",
+        "name": "contao"
+    },
+    {
+        "className": "fab fa-cotton-bureau",
+        "name": "cotton-bureau"
+    },
+    {
+        "className": "fab fa-cpanel",
+        "name": "cpanel"
+    },
+    {
+        "className": "fab fa-creative-commons",
+        "name": "creative-commons"
+    },
+    {
+        "className": "fab fa-creative-commons-by",
+        "name": "creative-commons-by"
+    },
+    {
+        "className": "fab fa-creative-commons-nc",
+        "name": "creative-commons-nc"
+    },
+    {
+        "className": "fab fa-creative-commons-nc-eu",
+        "name": "creative-commons-nc-eu"
+    },
+    {
+        "className": "fab fa-creative-commons-nc-jp",
+        "name": "creative-commons-nc-jp"
+    },
+    {
+        "className": "fab fa-creative-commons-nd",
+        "name": "creative-commons-nd"
+    },
+    {
+        "className": "fab fa-creative-commons-pd",
+        "name": "creative-commons-pd"
+    },
+    {
+        "className": "fab fa-creative-commons-pd-alt",
+        "name": "creative-commons-pd-alt"
+    },
+    {
+        "className": "fab fa-creative-commons-remix",
+        "name": "creative-commons-remix"
+    },
+    {
+        "className": "fab fa-creative-commons-sa",
+        "name": "creative-commons-sa"
+    },
+    {
+        "className": "fab fa-creative-commons-sampling",
+        "name": "creative-commons-sampling"
+    },
+    {
+        "className": "fab fa-creative-commons-sampling-plus",
+        "name": "creative-commons-sampling-plus"
+    },
+    {
+        "className": "fab fa-creative-commons-share",
+        "name": "creative-commons-share"
+    },
+    {
+        "className": "fab fa-creative-commons-zero",
+        "name": "creative-commons-zero"
+    },
+    {
+        "className": "fab fa-critical-role",
+        "name": "critical-role"
+    },
+    {
+        "className": "fab fa-css3",
+        "name": "css3"
+    },
+    {
+        "className": "fab fa-css3-alt",
+        "name": "css3-alt"
+    },
+    {
+        "className": "fab fa-cuttlefish",
+        "name": "cuttlefish"
+    },
+    {
+        "className": "fab fa-d-and-d",
+        "name": "d-and-d"
+    },
+    {
+        "className": "fab fa-d-and-d-beyond",
+        "name": "d-and-d-beyond"
+    },
+    {
+        "className": "fab fa-dailymotion",
+        "name": "dailymotion"
+    },
+    {
+        "className": "fab fa-dashcube",
+        "name": "dashcube"
+    },
+    {
+        "className": "fab fa-deezer",
+        "name": "deezer"
+    },
+    {
+        "className": "fab fa-delicious",
+        "name": "delicious"
+    },
+    {
+        "className": "fab fa-deploydog",
+        "name": "deploydog"
+    },
+    {
+        "className": "fab fa-deskpro",
+        "name": "deskpro"
+    },
+    {
+        "className": "fab fa-dev",
+        "name": "dev"
+    },
+    {
+        "className": "fab fa-deviantart",
+        "name": "deviantart"
+    },
+    {
+        "className": "fab fa-dhl",
+        "name": "dhl"
+    },
+    {
+        "className": "fab fa-diaspora",
+        "name": "diaspora"
+    },
+    {
+        "className": "fab fa-digg",
+        "name": "digg"
+    },
+    {
+        "className": "fab fa-digital-ocean",
+        "name": "digital-ocean"
+    },
+    {
+        "className": "fab fa-discord",
+        "name": "discord"
+    },
+    {
+        "className": "fab fa-discourse",
+        "name": "discourse"
+    },
+    {
+        "className": "fab fa-dochub",
+        "name": "dochub"
+    },
+    {
+        "className": "fab fa-docker",
+        "name": "docker"
+    },
+    {
+        "className": "fab fa-draft2digital",
+        "name": "draft2digital"
+    },
+    {
+        "className": "fab fa-dribbble",
+        "name": "dribbble"
+    },
+    {
+        "className": "fab fa-dribbble-square",
+        "name": "dribbble-square"
+    },
+    {
+        "className": "fab fa-dropbox",
+        "name": "dropbox"
+    },
+    {
+        "className": "fab fa-drupal",
+        "name": "drupal"
+    },
+    {
+        "className": "fab fa-dyalog",
+        "name": "dyalog"
+    },
+    {
+        "className": "fab fa-earlybirds",
+        "name": "earlybirds"
+    },
+    {
+        "className": "fab fa-ebay",
+        "name": "ebay"
+    },
+    {
+        "className": "fab fa-edge",
+        "name": "edge"
+    },
+    {
+        "className": "fab fa-edge-legacy",
+        "name": "edge-legacy"
+    },
+    {
+        "className": "fab fa-elementor",
+        "name": "elementor"
+    },
+    {
+        "className": "fab fa-ello",
+        "name": "ello"
+    },
+    {
+        "className": "fab fa-ember",
+        "name": "ember"
+    },
+    {
+        "className": "fab fa-empire",
+        "name": "empire"
+    },
+    {
+        "className": "fab fa-envira",
+        "name": "envira"
+    },
+    {
+        "className": "fab fa-erlang",
+        "name": "erlang"
+    },
+    {
+        "className": "fab fa-ethereum",
+        "name": "ethereum"
+    },
+    {
+        "className": "fab fa-etsy",
+        "name": "etsy"
+    },
+    {
+        "className": "fab fa-evernote",
+        "name": "evernote"
+    },
+    {
+        "className": "fab fa-expeditedssl",
+        "name": "expeditedssl"
+    },
+    {
+        "className": "fab fa-facebook",
+        "name": "facebook"
+    },
+    {
+        "className": "fab fa-facebook-f",
+        "name": "facebook-f"
+    },
+    {
+        "className": "fab fa-facebook-messenger",
+        "name": "facebook-messenger"
+    },
+    {
+        "className": "fab fa-facebook-square",
+        "name": "facebook-square"
+    },
+    {
+        "className": "fab fa-fantasy-flight-games",
+        "name": "fantasy-flight-games"
+    },
+    {
+        "className": "fab fa-fedex",
+        "name": "fedex"
+    },
+    {
+        "className": "fab fa-fedora",
+        "name": "fedora"
+    },
+    {
+        "className": "fab fa-figma",
+        "name": "figma"
+    },
+    {
+        "className": "fab fa-firefox",
+        "name": "firefox"
+    },
+    {
+        "className": "fab fa-firefox-browser",
+        "name": "firefox-browser"
+    },
+    {
+        "className": "fab fa-first-order",
+        "name": "first-order"
+    },
+    {
+        "className": "fab fa-first-order-alt",
+        "name": "first-order-alt"
+    },
+    {
+        "className": "fab fa-firstdraft",
+        "name": "firstdraft"
+    },
+    {
+        "className": "fab fa-flickr",
+        "name": "flickr"
+    },
+    {
+        "className": "fab fa-flipboard",
+        "name": "flipboard"
+    },
+    {
+        "className": "fab fa-fly",
+        "name": "fly"
+    },
+    {
+        "className": "fab fa-font-awesome",
+        "name": "font-awesome"
+    },
+    {
+        "className": "fab fa-font-awesome-alt",
+        "name": "font-awesome-alt"
+    },
+    {
+        "className": "fab fa-font-awesome-flag",
+        "name": "font-awesome-flag"
+    },
+    {
+        "className": "fab fa-fonticons",
+        "name": "fonticons"
+    },
+    {
+        "className": "fab fa-fonticons-fi",
+        "name": "fonticons-fi"
+    },
+    {
+        "className": "fab fa-fort-awesome",
+        "name": "fort-awesome"
+    },
+    {
+        "className": "fab fa-fort-awesome-alt",
+        "name": "fort-awesome-alt"
+    },
+    {
+        "className": "fab fa-forumbee",
+        "name": "forumbee"
+    },
+    {
+        "className": "fab fa-foursquare",
+        "name": "foursquare"
+    },
+    {
+        "className": "fab fa-free-code-camp",
+        "name": "free-code-camp"
+    },
+    {
+        "className": "fab fa-freebsd",
+        "name": "freebsd"
+    },
+    {
+        "className": "fab fa-fulcrum",
+        "name": "fulcrum"
+    },
+    {
+        "className": "fab fa-galactic-republic",
+        "name": "galactic-republic"
+    },
+    {
+        "className": "fab fa-galactic-senate",
+        "name": "galactic-senate"
+    },
+    {
+        "className": "fab fa-get-pocket",
+        "name": "get-pocket"
+    },
+    {
+        "className": "fab fa-gg",
+        "name": "gg"
+    },
+    {
+        "className": "fab fa-gg-circle",
+        "name": "gg-circle"
+    },
+    {
+        "className": "fab fa-git",
+        "name": "git"
+    },
+    {
+        "className": "fab fa-git-alt",
+        "name": "git-alt"
+    },
+    {
+        "className": "fab fa-git-square",
+        "name": "git-square"
+    },
+    {
+        "className": "fab fa-github",
+        "name": "github"
+    },
+    {
+        "className": "fab fa-github-alt",
+        "name": "github-alt"
+    },
+    {
+        "className": "fab fa-github-square",
+        "name": "github-square"
+    },
+    {
+        "className": "fab fa-gitkraken",
+        "name": "gitkraken"
+    },
+    {
+        "className": "fab fa-gitlab",
+        "name": "gitlab"
+    },
+    {
+        "className": "fab fa-gitter",
+        "name": "gitter"
+    },
+    {
+        "className": "fab fa-glide",
+        "name": "glide"
+    },
+    {
+        "className": "fab fa-glide-g",
+        "name": "glide-g"
+    },
+    {
+        "className": "fab fa-gofore",
+        "name": "gofore"
+    },
+    {
+        "className": "fab fa-goodreads",
+        "name": "goodreads"
+    },
+    {
+        "className": "fab fa-goodreads-g",
+        "name": "goodreads-g"
+    },
+    {
+        "className": "fab fa-google",
+        "name": "google"
+    },
+    {
+        "className": "fab fa-google-drive",
+        "name": "google-drive"
+    },
+    {
+        "className": "fab fa-google-pay",
+        "name": "google-pay"
+    },
+    {
+        "className": "fab fa-google-play",
+        "name": "google-play"
+    },
+    {
+        "className": "fab fa-google-plus",
+        "name": "google-plus"
+    },
+    {
+        "className": "fab fa-google-plus-g",
+        "name": "google-plus-g"
+    },
+    {
+        "className": "fab fa-google-plus-square",
+        "name": "google-plus-square"
+    },
+    {
+        "className": "fab fa-google-wallet",
+        "name": "google-wallet"
+    },
+    {
+        "className": "fab fa-gratipay",
+        "name": "gratipay"
+    },
+    {
+        "className": "fab fa-grav",
+        "name": "grav"
+    },
+    {
+        "className": "fab fa-gripfire",
+        "name": "gripfire"
+    },
+    {
+        "className": "fab fa-grunt",
+        "name": "grunt"
+    },
+    {
+        "className": "fab fa-guilded",
+        "name": "guilded"
+    },
+    {
+        "className": "fab fa-gulp",
+        "name": "gulp"
+    },
+    {
+        "className": "fab fa-hacker-news",
+        "name": "hacker-news"
+    },
+    {
+        "className": "fab fa-hacker-news-square",
+        "name": "hacker-news-square"
+    },
+    {
+        "className": "fab fa-hackerrank",
+        "name": "hackerrank"
+    },
+    {
+        "className": "fab fa-hips",
+        "name": "hips"
+    },
+    {
+        "className": "fab fa-hire-a-helper",
+        "name": "hire-a-helper"
+    },
+    {
+        "className": "fab fa-hive",
+        "name": "hive"
+    },
+    {
+        "className": "fab fa-hooli",
+        "name": "hooli"
+    },
+    {
+        "className": "fab fa-hornbill",
+        "name": "hornbill"
+    },
+    {
+        "className": "fab fa-hotjar",
+        "name": "hotjar"
+    },
+    {
+        "className": "fab fa-houzz",
+        "name": "houzz"
+    },
+    {
+        "className": "fab fa-html5",
+        "name": "html5"
+    },
+    {
+        "className": "fab fa-hubspot",
+        "name": "hubspot"
+    },
+    {
+        "className": "fab fa-ideal",
+        "name": "ideal"
+    },
+    {
+        "className": "fab fa-imdb",
+        "name": "imdb"
+    },
+    {
+        "className": "fab fa-innosoft",
+        "name": "innosoft"
+    },
+    {
+        "className": "fab fa-instagram",
+        "name": "instagram"
+    },
+    {
+        "className": "fab fa-instagram-square",
+        "name": "instagram-square"
+    },
+    {
+        "className": "fab fa-instalod",
+        "name": "instalod"
+    },
+    {
+        "className": "fab fa-intercom",
+        "name": "intercom"
+    },
+    {
+        "className": "fab fa-internet-explorer",
+        "name": "internet-explorer"
+    },
+    {
+        "className": "fab fa-invision",
+        "name": "invision"
+    },
+    {
+        "className": "fab fa-ioxhost",
+        "name": "ioxhost"
+    },
+    {
+        "className": "fab fa-itch-io",
+        "name": "itch-io"
+    },
+    {
+        "className": "fab fa-itunes",
+        "name": "itunes"
+    },
+    {
+        "className": "fab fa-itunes-note",
+        "name": "itunes-note"
+    },
+    {
+        "className": "fab fa-java",
+        "name": "java"
+    },
+    {
+        "className": "fab fa-jedi-order",
+        "name": "jedi-order"
+    },
+    {
+        "className": "fab fa-jenkins",
+        "name": "jenkins"
+    },
+    {
+        "className": "fab fa-jira",
+        "name": "jira"
+    },
+    {
+        "className": "fab fa-joget",
+        "name": "joget"
+    },
+    {
+        "className": "fab fa-joomla",
+        "name": "joomla"
+    },
+    {
+        "className": "fab fa-js",
+        "name": "js"
+    },
+    {
+        "className": "fab fa-js-square",
+        "name": "js-square"
+    },
+    {
+        "className": "fab fa-jsfiddle",
+        "name": "jsfiddle"
+    },
+    {
+        "className": "fab fa-kaggle",
+        "name": "kaggle"
+    },
+    {
+        "className": "fab fa-keybase",
+        "name": "keybase"
+    },
+    {
+        "className": "fab fa-keycdn",
+        "name": "keycdn"
+    },
+    {
+        "className": "fab fa-kickstarter",
+        "name": "kickstarter"
+    },
+    {
+        "className": "fab fa-kickstarter-k",
+        "name": "kickstarter-k"
+    },
+    {
+        "className": "fab fa-korvue",
+        "name": "korvue"
+    },
+    {
+        "className": "fab fa-laravel",
+        "name": "laravel"
+    },
+    {
+        "className": "fab fa-lastfm",
+        "name": "lastfm"
+    },
+    {
+        "className": "fab fa-lastfm-square",
+        "name": "lastfm-square"
+    },
+    {
+        "className": "fab fa-leanpub",
+        "name": "leanpub"
+    },
+    {
+        "className": "fab fa-less",
+        "name": "less"
+    },
+    {
+        "className": "fab fa-line",
+        "name": "line"
+    },
+    {
+        "className": "fab fa-linkedin",
+        "name": "linkedin"
+    },
+    {
+        "className": "fab fa-linkedin-in",
+        "name": "linkedin-in"
+    },
+    {
+        "className": "fab fa-linode",
+        "name": "linode"
+    },
+    {
+        "className": "fab fa-linux",
+        "name": "linux"
+    },
+    {
+        "className": "fab fa-lyft",
+        "name": "lyft"
+    },
+    {
+        "className": "fab fa-magento",
+        "name": "magento"
+    },
+    {
+        "className": "fab fa-mailchimp",
+        "name": "mailchimp"
+    },
+    {
+        "className": "fab fa-mandalorian",
+        "name": "mandalorian"
+    },
+    {
+        "className": "fab fa-markdown",
+        "name": "markdown"
+    },
+    {
+        "className": "fab fa-mastodon",
+        "name": "mastodon"
+    },
+    {
+        "className": "fab fa-maxcdn",
+        "name": "maxcdn"
+    },
+    {
+        "className": "fab fa-mdb",
+        "name": "mdb"
+    },
+    {
+        "className": "fab fa-medapps",
+        "name": "medapps"
+    },
+    {
+        "className": "fab fa-medium",
+        "name": "medium"
+    },
+    {
+        "className": "fab fa-medium-m",
+        "name": "medium-m"
+    },
+    {
+        "className": "fab fa-medrt",
+        "name": "medrt"
+    },
+    {
+        "className": "fab fa-meetup",
+        "name": "meetup"
+    },
+    {
+        "className": "fab fa-megaport",
+        "name": "megaport"
+    },
+    {
+        "className": "fab fa-mendeley",
+        "name": "mendeley"
+    },
+    {
+        "className": "fab fa-microblog",
+        "name": "microblog"
+    },
+    {
+        "className": "fab fa-microsoft",
+        "name": "microsoft"
+    },
+    {
+        "className": "fab fa-mix",
+        "name": "mix"
+    },
+    {
+        "className": "fab fa-mixcloud",
+        "name": "mixcloud"
+    },
+    {
+        "className": "fab fa-mixer",
+        "name": "mixer"
+    },
+    {
+        "className": "fab fa-mizuni",
+        "name": "mizuni"
+    },
+    {
+        "className": "fab fa-modx",
+        "name": "modx"
+    },
+    {
+        "className": "fab fa-monero",
+        "name": "monero"
+    },
+    {
+        "className": "fab fa-napster",
+        "name": "napster"
+    },
+    {
+        "className": "fab fa-neos",
+        "name": "neos"
+    },
+    {
+        "className": "fab fa-nimblr",
+        "name": "nimblr"
+    },
+    {
+        "className": "fab fa-node",
+        "name": "node"
+    },
+    {
+        "className": "fab fa-node-js",
+        "name": "node-js"
+    },
+    {
+        "className": "fab fa-npm",
+        "name": "npm"
+    },
+    {
+        "className": "fab fa-ns8",
+        "name": "ns8"
+    },
+    {
+        "className": "fab fa-nutritionix",
+        "name": "nutritionix"
+    },
+    {
+        "className": "fab fa-octopus-deploy",
+        "name": "octopus-deploy"
+    },
+    {
+        "className": "fab fa-odnoklassniki",
+        "name": "odnoklassniki"
+    },
+    {
+        "className": "fab fa-odnoklassniki-square",
+        "name": "odnoklassniki-square"
+    },
+    {
+        "className": "fab fa-old-republic",
+        "name": "old-republic"
+    },
+    {
+        "className": "fab fa-opencart",
+        "name": "opencart"
+    },
+    {
+        "className": "fab fa-openid",
+        "name": "openid"
+    },
+    {
+        "className": "fab fa-opera",
+        "name": "opera"
+    },
+    {
+        "className": "fab fa-optin-monster",
+        "name": "optin-monster"
+    },
+    {
+        "className": "fab fa-orcid",
+        "name": "orcid"
+    },
+    {
+        "className": "fab fa-osi",
+        "name": "osi"
+    },
+    {
+        "className": "fab fa-page4",
+        "name": "page4"
+    },
+    {
+        "className": "fab fa-pagelines",
+        "name": "pagelines"
+    },
+    {
+        "className": "fab fa-palfed",
+        "name": "palfed"
+    },
+    {
+        "className": "fab fa-patreon",
+        "name": "patreon"
+    },
+    {
+        "className": "fab fa-paypal",
+        "name": "paypal"
+    },
+    {
+        "className": "fab fa-penny-arcade",
+        "name": "penny-arcade"
+    },
+    {
+        "className": "fab fa-perbyte",
+        "name": "perbyte"
+    },
+    {
+        "className": "fab fa-periscope",
+        "name": "periscope"
+    },
+    {
+        "className": "fab fa-phabricator",
+        "name": "phabricator"
+    },
+    {
+        "className": "fab fa-phoenix-framework",
+        "name": "phoenix-framework"
+    },
+    {
+        "className": "fab fa-phoenix-squadron",
+        "name": "phoenix-squadron"
+    },
+    {
+        "className": "fab fa-php",
+        "name": "php"
+    },
+    {
+        "className": "fab fa-pied-piper",
+        "name": "pied-piper"
+    },
+    {
+        "className": "fab fa-pied-piper-alt",
+        "name": "pied-piper-alt"
+    },
+    {
+        "className": "fab fa-pied-piper-hat",
+        "name": "pied-piper-hat"
+    },
+    {
+        "className": "fab fa-pied-piper-pp",
+        "name": "pied-piper-pp"
+    },
+    {
+        "className": "fab fa-pied-piper-square",
+        "name": "pied-piper-square"
+    },
+    {
+        "className": "fab fa-pinterest",
+        "name": "pinterest"
+    },
+    {
+        "className": "fab fa-pinterest-p",
+        "name": "pinterest-p"
+    },
+    {
+        "className": "fab fa-pinterest-square",
+        "name": "pinterest-square"
+    },
+    {
+        "className": "fab fa-playstation",
+        "name": "playstation"
+    },
+    {
+        "className": "fab fa-product-hunt",
+        "name": "product-hunt"
+    },
+    {
+        "className": "fab fa-pushed",
+        "name": "pushed"
+    },
+    {
+        "className": "fab fa-python",
+        "name": "python"
+    },
+    {
+        "className": "fab fa-qq",
+        "name": "qq"
+    },
+    {
+        "className": "fab fa-quinscape",
+        "name": "quinscape"
+    },
+    {
+        "className": "fab fa-quora",
+        "name": "quora"
+    },
+    {
+        "className": "fab fa-r-project",
+        "name": "r-project"
+    },
+    {
+        "className": "fab fa-raspberry-pi",
+        "name": "raspberry-pi"
+    },
+    {
+        "className": "fab fa-ravelry",
+        "name": "ravelry"
+    },
+    {
+        "className": "fab fa-react",
+        "name": "react"
+    },
+    {
+        "className": "fab fa-reacteurope",
+        "name": "reacteurope"
+    },
+    {
+        "className": "fab fa-readme",
+        "name": "readme"
+    },
+    {
+        "className": "fab fa-rebel",
+        "name": "rebel"
+    },
+    {
+        "className": "fab fa-red-river",
+        "name": "red-river"
+    },
+    {
+        "className": "fab fa-reddit",
+        "name": "reddit"
+    },
+    {
+        "className": "fab fa-reddit-alien",
+        "name": "reddit-alien"
+    },
+    {
+        "className": "fab fa-reddit-square",
+        "name": "reddit-square"
+    },
+    {
+        "className": "fab fa-redhat",
+        "name": "redhat"
+    },
+    {
+        "className": "fab fa-renren",
+        "name": "renren"
+    },
+    {
+        "className": "fab fa-replyd",
+        "name": "replyd"
+    },
+    {
+        "className": "fab fa-researchgate",
+        "name": "researchgate"
+    },
+    {
+        "className": "fab fa-resolving",
+        "name": "resolving"
+    },
+    {
+        "className": "fab fa-rev",
+        "name": "rev"
+    },
+    {
+        "className": "fab fa-rocketchat",
+        "name": "rocketchat"
+    },
+    {
+        "className": "fab fa-rockrms",
+        "name": "rockrms"
+    },
+    {
+        "className": "fab fa-rust",
+        "name": "rust"
+    },
+    {
+        "className": "fab fa-safari",
+        "name": "safari"
+    },
+    {
+        "className": "fab fa-salesforce",
+        "name": "salesforce"
+    },
+    {
+        "className": "fab fa-sass",
+        "name": "sass"
+    },
+    {
+        "className": "fab fa-schlix",
+        "name": "schlix"
+    },
+    {
+        "className": "fab fa-scribd",
+        "name": "scribd"
+    },
+    {
+        "className": "fab fa-searchengin",
+        "name": "searchengin"
+    },
+    {
+        "className": "fab fa-sellcast",
+        "name": "sellcast"
+    },
+    {
+        "className": "fab fa-sellsy",
+        "name": "sellsy"
+    },
+    {
+        "className": "fab fa-servicestack",
+        "name": "servicestack"
+    },
+    {
+        "className": "fab fa-shirtsinbulk",
+        "name": "shirtsinbulk"
+    },
+    {
+        "className": "fab fa-shopify",
+        "name": "shopify"
+    },
+    {
+        "className": "fab fa-shopware",
+        "name": "shopware"
+    },
+    {
+        "className": "fab fa-simplybuilt",
+        "name": "simplybuilt"
+    },
+    {
+        "className": "fab fa-sistrix",
+        "name": "sistrix"
+    },
+    {
+        "className": "fab fa-sith",
+        "name": "sith"
+    },
+    {
+        "className": "fab fa-sketch",
+        "name": "sketch"
+    },
+    {
+        "className": "fab fa-skyatlas",
+        "name": "skyatlas"
+    },
+    {
+        "className": "fab fa-skype",
+        "name": "skype"
+    },
+    {
+        "className": "fab fa-slack",
+        "name": "slack"
+    },
+    {
+        "className": "fab fa-slack-hash",
+        "name": "slack-hash"
+    },
+    {
+        "className": "fab fa-slideshare",
+        "name": "slideshare"
+    },
+    {
+        "className": "fab fa-snapchat",
+        "name": "snapchat"
+    },
+    {
+        "className": "fab fa-snapchat-ghost",
+        "name": "snapchat-ghost"
+    },
+    {
+        "className": "fab fa-snapchat-square",
+        "name": "snapchat-square"
+    },
+    {
+        "className": "fab fa-soundcloud",
+        "name": "soundcloud"
+    },
+    {
+        "className": "fab fa-sourcetree",
+        "name": "sourcetree"
+    },
+    {
+        "className": "fab fa-speakap",
+        "name": "speakap"
+    },
+    {
+        "className": "fab fa-speaker-deck",
+        "name": "speaker-deck"
+    },
+    {
+        "className": "fab fa-spotify",
+        "name": "spotify"
+    },
+    {
+        "className": "fab fa-squarespace",
+        "name": "squarespace"
+    },
+    {
+        "className": "fab fa-stack-exchange",
+        "name": "stack-exchange"
+    },
+    {
+        "className": "fab fa-stack-overflow",
+        "name": "stack-overflow"
+    },
+    {
+        "className": "fab fa-stackpath",
+        "name": "stackpath"
+    },
+    {
+        "className": "fab fa-staylinked",
+        "name": "staylinked"
+    },
+    {
+        "className": "fab fa-steam",
+        "name": "steam"
+    },
+    {
+        "className": "fab fa-steam-square",
+        "name": "steam-square"
+    },
+    {
+        "className": "fab fa-steam-symbol",
+        "name": "steam-symbol"
+    },
+    {
+        "className": "fab fa-sticker-mule",
+        "name": "sticker-mule"
+    },
+    {
+        "className": "fab fa-strava",
+        "name": "strava"
+    },
+    {
+        "className": "fab fa-stripe",
+        "name": "stripe"
+    },
+    {
+        "className": "fab fa-stripe-s",
+        "name": "stripe-s"
+    },
+    {
+        "className": "fab fa-studiovinari",
+        "name": "studiovinari"
+    },
+    {
+        "className": "fab fa-stumbleupon",
+        "name": "stumbleupon"
+    },
+    {
+        "className": "fab fa-stumbleupon-circle",
+        "name": "stumbleupon-circle"
+    },
+    {
+        "className": "fab fa-superpowers",
+        "name": "superpowers"
+    },
+    {
+        "className": "fab fa-supple",
+        "name": "supple"
+    },
+    {
+        "className": "fab fa-suse",
+        "name": "suse"
+    },
+    {
+        "className": "fab fa-swift",
+        "name": "swift"
+    },
+    {
+        "className": "fab fa-symfony",
+        "name": "symfony"
+    },
+    {
+        "className": "fab fa-teamspeak",
+        "name": "teamspeak"
+    },
+    {
+        "className": "fab fa-telegram",
+        "name": "telegram"
+    },
+    {
+        "className": "fab fa-telegram-plane",
+        "name": "telegram-plane"
+    },
+    {
+        "className": "fab fa-tencent-weibo",
+        "name": "tencent-weibo"
+    },
+    {
+        "className": "fab fa-the-red-yeti",
+        "name": "the-red-yeti"
+    },
+    {
+        "className": "fab fa-themeco",
+        "name": "themeco"
+    },
+    {
+        "className": "fab fa-themeisle",
+        "name": "themeisle"
+    },
+    {
+        "className": "fab fa-think-peaks",
+        "name": "think-peaks"
+    },
+    {
+        "className": "fab fa-tiktok",
+        "name": "tiktok"
+    },
+    {
+        "className": "fab fa-trade-federation",
+        "name": "trade-federation"
+    },
+    {
+        "className": "fab fa-trello",
+        "name": "trello"
+    },
+    {
+        "className": "fab fa-tumblr",
+        "name": "tumblr"
+    },
+    {
+        "className": "fab fa-tumblr-square",
+        "name": "tumblr-square"
+    },
+    {
+        "className": "fab fa-twitch",
+        "name": "twitch"
+    },
+    {
+        "className": "fab fa-twitter",
+        "name": "twitter"
+    },
+    {
+        "className": "fab fa-twitter-square",
+        "name": "twitter-square"
+    },
+    {
+        "className": "fab fa-typo3",
+        "name": "typo3"
+    },
+    {
+        "className": "fab fa-uber",
+        "name": "uber"
+    },
+    {
+        "className": "fab fa-ubuntu",
+        "name": "ubuntu"
+    },
+    {
+        "className": "fab fa-uikit",
+        "name": "uikit"
+    },
+    {
+        "className": "fab fa-umbraco",
+        "name": "umbraco"
+    },
+    {
+        "className": "fab fa-uncharted",
+        "name": "uncharted"
+    },
+    {
+        "className": "fab fa-uniregistry",
+        "name": "uniregistry"
+    },
+    {
+        "className": "fab fa-unity",
+        "name": "unity"
+    },
+    {
+        "className": "fab fa-unsplash",
+        "name": "unsplash"
+    },
+    {
+        "className": "fab fa-untappd",
+        "name": "untappd"
+    },
+    {
+        "className": "fab fa-ups",
+        "name": "ups"
+    },
+    {
+        "className": "fab fa-usb",
+        "name": "usb"
+    },
+    {
+        "className": "fab fa-usps",
+        "name": "usps"
+    },
+    {
+        "className": "fab fa-ussunnah",
+        "name": "ussunnah"
+    },
+    {
+        "className": "fab fa-vaadin",
+        "name": "vaadin"
+    },
+    {
+        "className": "fab fa-viacoin",
+        "name": "viacoin"
+    },
+    {
+        "className": "fab fa-viadeo",
+        "name": "viadeo"
+    },
+    {
+        "className": "fab fa-viadeo-square",
+        "name": "viadeo-square"
+    },
+    {
+        "className": "fab fa-viber",
+        "name": "viber"
+    },
+    {
+        "className": "fab fa-vimeo",
+        "name": "vimeo"
+    },
+    {
+        "className": "fab fa-vimeo-square",
+        "name": "vimeo-square"
+    },
+    {
+        "className": "fab fa-vimeo-v",
+        "name": "vimeo-v"
+    },
+    {
+        "className": "fab fa-vine",
+        "name": "vine"
+    },
+    {
+        "className": "fab fa-vk",
+        "name": "vk"
+    },
+    {
+        "className": "fab fa-vnv",
+        "name": "vnv"
+    },
+    {
+        "className": "fab fa-vuejs",
+        "name": "vuejs"
+    },
+    {
+        "className": "fab fa-watchman-monitoring",
+        "name": "watchman-monitoring"
+    },
+    {
+        "className": "fab fa-waze",
+        "name": "waze"
+    },
+    {
+        "className": "fab fa-weebly",
+        "name": "weebly"
+    },
+    {
+        "className": "fab fa-weibo",
+        "name": "weibo"
+    },
+    {
+        "className": "fab fa-weixin",
+        "name": "weixin"
+    },
+    {
+        "className": "fab fa-whatsapp",
+        "name": "whatsapp"
+    },
+    {
+        "className": "fab fa-whatsapp-square",
+        "name": "whatsapp-square"
+    },
+    {
+        "className": "fab fa-whmcs",
+        "name": "whmcs"
+    },
+    {
+        "className": "fab fa-wikipedia-w",
+        "name": "wikipedia-w"
+    },
+    {
+        "className": "fab fa-windows",
+        "name": "windows"
+    },
+    {
+        "className": "fab fa-wix",
+        "name": "wix"
+    },
+    {
+        "className": "fab fa-wizards-of-the-coast",
+        "name": "wizards-of-the-coast"
+    },
+    {
+        "className": "fab fa-wodu",
+        "name": "wodu"
+    },
+    {
+        "className": "fab fa-wolf-pack-battalion",
+        "name": "wolf-pack-battalion"
+    },
+    {
+        "className": "fab fa-wordpress",
+        "name": "wordpress"
+    },
+    {
+        "className": "fab fa-wordpress-simple",
+        "name": "wordpress-simple"
+    },
+    {
+        "className": "fab fa-wpbeginner",
+        "name": "wpbeginner"
+    },
+    {
+        "className": "fab fa-wpexplorer",
+        "name": "wpexplorer"
+    },
+    {
+        "className": "fab fa-wpforms",
+        "name": "wpforms"
+    },
+    {
+        "className": "fab fa-wpressr",
+        "name": "wpressr"
+    },
+    {
+        "className": "fab fa-xbox",
+        "name": "xbox"
+    },
+    {
+        "className": "fab fa-xing",
+        "name": "xing"
+    },
+    {
+        "className": "fab fa-xing-square",
+        "name": "xing-square"
+    },
+    {
+        "className": "fab fa-y-combinator",
+        "name": "y-combinator"
+    },
+    {
+        "className": "fab fa-yahoo",
+        "name": "yahoo"
+    },
+    {
+        "className": "fab fa-yammer",
+        "name": "yammer"
+    },
+    {
+        "className": "fab fa-yandex",
+        "name": "yandex"
+    },
+    {
+        "className": "fab fa-yandex-international",
+        "name": "yandex-international"
+    },
+    {
+        "className": "fab fa-yarn",
+        "name": "yarn"
+    },
+    {
+        "className": "fab fa-yelp",
+        "name": "yelp"
+    },
+    {
+        "className": "fab fa-yoast",
+        "name": "yoast"
+    },
+    {
+        "className": "fab fa-youtube",
+        "name": "youtube"
+    },
+    {
+        "className": "fab fa-youtube-square",
+        "name": "youtube-square"
+    },
+    {
+        "className": "fab fa-zhihu",
+        "name": "zhihu"
+    },
+    {
+        "name": "sheet ",
+        "className": "lui-icon ui-icon--sheet"
+    },
+    {
+        "name": "object ",
+        "className": "lui-icon lui-icon--object"
+    },
+    {
+        "name": "image ",
+        "className": "lui-icon lui-icon--image"
+    },
+    {
+        "name": "clear selections ",
+        "className": "lui-icon lui-icon--clear-selections"
+    },
+    {
+        "name": "selections tool ",
+        "className": "lui-icon lui-icon--selections-tool"
+    },
+    {
+        "name": "bookmark ",
+        "className": "lui-icon lui-icon--bookmark"
+    },
+    {
+        "name": "back ",
+        "className": "lui-icon lui-icon--back"
+    },
+    {
+        "name": "forward ",
+        "className": "lui-icon lui-icon--forward"
+    },
+    {
+        "name": "history ",
+        "className": "lui-icon lui-icon--history"
+    },
+    {
+        "name": "help ",
+        "className": "lui-icon lui-icon--help"
+    },
+    {
+        "name": "info ",
+        "className": "lui-icon lui-icon--info"
+    },
+    {
+        "name": "toggle left ",
+        "className": "lui-icon lui-icon--toggle-left"
+    },
+    {
+        "name": "toggle right ",
+        "className": "lui-icon lui-icon--toggle-right"
+    },
+    {
+        "name": "selections reload ",
+        "className": "lui-icon lui-icon--selections-reload"
+    },
+    {
+        "name": "text ",
+        "className": "lui-icon lui-icon--text"
+    },
+    {
+        "name": "group ",
+        "className": "lui-icon lui-icon--group"
+    },
+    {
+        "name": "search ",
+        "className": "lui-icon lui-icon--search"
+    },
+    {
+        "name": "zoom in ",
+        "className": "lui-icon lui-icon--zoom-in"
+    },
+    {
+        "name": "zoom out ",
+        "className": "lui-icon lui-icon--zoom-out"
+    },
+    {
+        "name": "selections back ",
+        "className": "lui-icon lui-icon--selections-back"
+    },
+    {
+        "name": "selections forward ",
+        "className": "lui-icon lui-icon--selections-forward"
+    },
+    {
+        "name": "export ",
+        "className": "lui-icon lui-icon--export"
+    },
+    {
+        "name": "lock ",
+        "className": "lui-icon lui-icon--lock"
+    },
+    {
+        "name": "unlock ",
+        "className": "lui-icon lui-icon--unlock"
+    },
+    {
+        "name": "database ",
+        "className": "lui-icon lui-icon--database"
+    },
+    {
+        "name": "calendar ",
+        "className": "lui-icon lui-icon--calendar"
+    },
+    {
+        "name": "field ",
+        "className": "lui-icon lui-icon--field"
+    },
+    {
+        "name": "expression ",
+        "className": "lui-icon lui-icon--expression"
+    },
+    {
+        "name": "library ",
+        "className": "lui-icon lui-icon--library"
+    },
+    {
+        "name": "debug ",
+        "className": "lui-icon lui-icon--debug"
+    },
+    {
+        "name": "script ok ",
+        "className": "lui-icon lui-icon--script-ok"
+    },
+    {
+        "name": "grid large ",
+        "className": "lui-icon lui-icon--grid-large"
+    },
+    {
+        "name": "star ",
+        "className": "lui-icon lui-icon--star"
+    },
+    {
+        "name": "print ",
+        "className": "lui-icon lui-icon--print"
+    },
+    {
+        "name": "remove ",
+        "className": "lui-icon lui-icon--remove"
+    },
+    {
+        "name": "handle ",
+        "className": "lui-icon lui-icon--handle"
+    },
+    {
+        "name": "handle horizontal ",
+        "className": "lui-icon lui-icon--handle-horizontal"
+    },
+    {
+        "name": "menu ",
+        "className": "lui-icon lui-icon--menu"
+    },
+    {
+        "name": "list ",
+        "className": "lui-icon lui-icon--list"
+    },
+    {
+        "name": "unordered list ",
+        "className": "lui-icon lui-icon--unordered-list"
+    },
+    {
+        "name": "bar chart ",
+        "className": "lui-icon lui-icon--bar-chart"
+    },
+    {
+        "name": "bar chart horizontal ",
+        "className": "lui-icon lui-icon--bar-chart-horizontal"
+    },
+    {
+        "name": "clock ",
+        "className": "lui-icon lui-icon--clock"
+    },
+    {
+        "name": "line chart ",
+        "className": "lui-icon lui-icon--line-chart"
+    },
+    {
+        "name": "pie chart ",
+        "className": "lui-icon lui-icon--pie-chart"
+    },
+    {
+        "name": "gauge chart ",
+        "className": "lui-icon lui-icon--gauge-chart"
+    },
+    {
+        "name": "kpi ",
+        "className": "lui-icon lui-icon--kpi"
+    },
+    {
+        "name": "scatter chart ",
+        "className": "lui-icon lui-icon--scatter-chart"
+    },
+    {
+        "name": "map ",
+        "className": "lui-icon lui-icon--map"
+    },
+    {
+        "name": "puzzle ",
+        "className": "lui-icon lui-icon--puzzle"
+    },
+    {
+        "name": "table ",
+        "className": "lui-icon lui-icon--table"
+    },
+    {
+        "name": "pivot table ",
+        "className": "lui-icon lui-icon--pivot-table"
+    },
+    {
+        "name": "filterpane ",
+        "className": "lui-icon lui-icon--filterpane"
+    },
+    {
+        "name": "treemap ",
+        "className": "lui-icon lui-icon--treemap"
+    },
+    {
+        "name": "combo chart ",
+        "className": "lui-icon lui-icon--combo-chart"
+    },
+    {
+        "name": "waterfallchart ",
+        "className": "lui-icon lui-icon--waterfallchart"
+    },
+    {
+        "name": "plus ",
+        "className": "lui-icon lui-icon--plus"
+    },
+    {
+        "name": "minus ",
+        "className": "lui-icon lui-icon--minus"
+    },
+    {
+        "name": "triangle top ",
+        "className": "lui-icon lui-icon--triangle-top"
+    },
+    {
+        "name": "triangle bottom ",
+        "className": "lui-icon lui-icon--triangle-bottom"
+    },
+    {
+        "name": "triangle left ",
+        "className": "lui-icon lui-icon--triangle-left"
+    },
+    {
+        "name": "triangle right ",
+        "className": "lui-icon lui-icon--triangle-right"
+    },
+    {
+        "name": "run script ",
+        "className": "lui-icon lui-icon--run-script"
+    },
+    {
+        "name": "tick ",
+        "className": "lui-icon lui-icon--tick"
+    },
+    {
+        "name": "cogwheel ",
+        "className": "lui-icon lui-icon--cogwheel"
+    },
+    {
+        "name": "settings ",
+        "className": "lui-icon lui-icon--settings"
+    },
+    {
+        "name": "data model ",
+        "className": "lui-icon lui-icon--data-model"
+    },
+    {
+        "name": "script ",
+        "className": "lui-icon lui-icon--script"
+    },
+    {
+        "name": "sense ",
+        "className": "lui-icon lui-icon--sense"
+    },
+    {
+        "name": "cut ",
+        "className": "lui-icon lui-icon--cut"
+    },
+    {
+        "name": "copy ",
+        "className": "lui-icon lui-icon--copy"
+    },
+    {
+        "name": "paste ",
+        "className": "lui-icon lui-icon--paste"
+    },
+    {
+        "name": "align left ",
+        "className": "lui-icon lui-icon--align-left"
+    },
+    {
+        "name": "align center ",
+        "className": "lui-icon lui-icon--align-center"
+    },
+    {
+        "name": "align right ",
+        "className": "lui-icon lui-icon--align-right"
+    },
+    {
+        "name": "bold ",
+        "className": "lui-icon lui-icon--bold"
+    },
+    {
+        "name": "italic ",
+        "className": "lui-icon lui-icon--italic"
+    },
+    {
+        "name": "underline ",
+        "className": "lui-icon lui-icon--underline"
+    },
+    {
+        "name": "select alternative ",
+        "className": "lui-icon lui-icon--select-alternative"
+    },
+    {
+        "name": "select possible ",
+        "className": "lui-icon lui-icon--select-possible"
+    },
+    {
+        "name": "select excluded ",
+        "className": "lui-icon lui-icon--select-excluded"
+    },
+    {
+        "name": "select all ",
+        "className": "lui-icon lui-icon--select-all"
+    },
+    {
+        "name": "camera ",
+        "className": "lui-icon lui-icon--camera"
+    },
+    {
+        "name": "slide show ",
+        "className": "lui-icon lui-icon--slide-show"
+    },
+    {
+        "name": "palette ",
+        "className": "lui-icon lui-icon--palette"
+    },
+    {
+        "name": "shapes ",
+        "className": "lui-icon lui-icon--shapes"
+    },
+    {
+        "name": "effects ",
+        "className": "lui-icon lui-icon--effects"
+    },
+    {
+        "name": "file ",
+        "className": "lui-icon lui-icon--file"
+    },
+    {
+        "name": "expand ",
+        "className": "lui-icon lui-icon--expand"
+    },
+    {
+        "name": "collapse ",
+        "className": "lui-icon lui-icon--collapse"
+    },
+    {
+        "name": "bin ",
+        "className": "lui-icon lui-icon--bin"
+    },
+    {
+        "name": "link ",
+        "className": "lui-icon lui-icon--link"
+    },
+    {
+        "name": "pivot ",
+        "className": "lui-icon lui-icon--pivot"
+    },
+    {
+        "name": "reload ",
+        "className": "lui-icon lui-icon--reload"
+    },
+    {
+        "name": "add ",
+        "className": "lui-icon lui-icon--add"
+    },
+    {
+        "name": "edit ",
+        "className": "lui-icon lui-icon--edit"
+    },
+    {
+        "name": "lasso ",
+        "className": "lui-icon lui-icon--lasso"
+    },
+    {
+        "name": "key ",
+        "className": "lui-icon lui-icon--key"
+    },
+    {
+        "name": "box ",
+        "className": "lui-icon lui-icon--box"
+    },
+    {
+        "name": "home ",
+        "className": "lui-icon lui-icon--home"
+    },
+    {
+        "name": "person ",
+        "className": "lui-icon lui-icon--person"
+    },
+    {
+        "name": "stream ",
+        "className": "lui-icon lui-icon--stream"
+    },
+    {
+        "name": "next ",
+        "className": "lui-icon lui-icon--next"
+    },
+    {
+        "name": "grid ",
+        "className": "lui-icon lui-icon--grid"
+    },
+    {
+        "name": "cloud ",
+        "className": "lui-icon lui-icon--cloud"
+    },
+    {
+        "name": "more ",
+        "className": "lui-icon lui-icon--more"
+    },
+    {
+        "name": "import ",
+        "className": "lui-icon lui-icon--import"
+    },
+    {
+        "name": "folder ",
+        "className": "lui-icon lui-icon--folder"
+    },
+    {
+        "name": "auto layout ",
+        "className": "lui-icon lui-icon--auto-layout"
+    },
+    {
+        "name": "toggle bottom ",
+        "className": "lui-icon lui-icon--toggle-bottom"
+    },
+    {
+        "name": "drop ",
+        "className": "lui-icon lui-icon--drop"
+    },
+    {
+        "name": "play ",
+        "className": "lui-icon lui-icon--play"
+    },
+    {
+        "name": "tag ",
+        "className": "lui-icon lui-icon--tag"
+    },
+    {
+        "name": "close ",
+        "className": "lui-icon lui-icon--close"
+    },
+    {
+        "name": "direct discovery ",
+        "className": "lui-icon lui-icon--direct-discovery"
+    },
+    {
+        "name": "warning ",
+        "className": "lui-icon lui-icon--warning"
+    },
+    {
+        "name": "warning triangle ",
+        "className": "lui-icon lui-icon--warning-triangle"
+    },
+    {
+        "name": "share ",
+        "className": "lui-icon lui-icon--share"
+    },
+    {
+        "name": "top ",
+        "className": "lui-icon lui-icon--top"
+    },
+    {
+        "name": "low resolution ",
+        "className": "lui-icon lui-icon--low-resolution"
+    },
+    {
+        "name": "high resolution ",
+        "className": "lui-icon lui-icon--high-resolution"
+    },
+    {
+        "name": "view ",
+        "className": "lui-icon lui-icon--view"
+    },
+    {
+        "name": "control ",
+        "className": "lui-icon lui-icon--control"
+    },
+    {
+        "name": "code ",
+        "className": "lui-icon lui-icon--code"
+    },
+    {
+        "name": "upload ",
+        "className": "lui-icon lui-icon--upload"
+    },
+    {
+        "name": "repair ",
+        "className": "lui-icon lui-icon--repair"
+    },
+    {
+        "name": "split ",
+        "className": "lui-icon lui-icon--split"
+    },
+    {
+        "name": "up down ",
+        "className": "lui-icon lui-icon--up-down"
+    },
+    {
+        "name": "disconnect ",
+        "className": "lui-icon lui-icon--disconnect"
+    },
+    {
+        "name": "photo library ",
+        "className": "lui-icon lui-icon--photo-library"
+    },
+    {
+        "name": "application ",
+        "className": "lui-icon lui-icon--application"
+    },
+    {
+        "name": "new tab ",
+        "className": "lui-icon lui-icon--new-tab"
+    },
+    {
+        "name": "ascending ",
+        "className": "lui-icon lui-icon--ascending"
+    },
+    {
+        "name": "descending ",
+        "className": "lui-icon lui-icon--descending"
+    },
+    {
+        "name": "arrow up ",
+        "className": "lui-icon lui-icon--arrow-up"
+    },
+    {
+        "name": "arrow down ",
+        "className": "lui-icon lui-icon--arrow-down"
+    },
+    {
+        "name": "arrow right ",
+        "className": "lui-icon lui-icon--arrow-right"
+    },
+    {
+        "name": "arrow left ",
+        "className": "lui-icon lui-icon--arrow-left"
+    },
+    {
+        "name": "sync ",
+        "className": "lui-icon lui-icon--sync"
+    },
+    {
+        "name": "draggable ",
+        "className": "lui-icon lui-icon--draggable"
+    },
+    {
+        "name": "book ",
+        "className": "lui-icon lui-icon--book"
+    },
+    {
+        "name": "measure ",
+        "className": "lui-icon lui-icon--measure"
+    },
+    {
+        "name": "download ",
+        "className": "lui-icon lui-icon--download"
+    },
+    {
+        "name": "align object left ",
+        "className": "lui-icon lui-icon--align-object-left"
+    },
+    {
+        "name": "align object center ",
+        "className": "lui-icon lui-icon--align-object-center"
+    },
+    {
+        "name": "align object right ",
+        "className": "lui-icon lui-icon--align-object-right"
+    },
+    {
+        "name": "submit ",
+        "className": "lui-icon lui-icon--submit"
+    },
+    {
+        "name": "operators ",
+        "className": "lui-icon lui-icon--operators"
+    },
+    {
+        "name": "general data class ",
+        "className": "lui-icon lui-icon--general-data-class"
+    },
+    {
+        "name": "building ",
+        "className": "lui-icon lui-icon--building"
+    },
+    {
+        "name": "bell ",
+        "className": "lui-icon lui-icon--bell"
+    },
+    {
+        "name": "unlink ",
+        "className": "lui-icon lui-icon--unlink"
+    },
+    {
+        "name": "lightbulb ",
+        "className": "lui-icon lui-icon--lightbulb"
+    },
+    {
+        "name": "associate ",
+        "className": "lui-icon lui-icon--associate"
+    },
+    {
+        "name": "break association ",
+        "className": "lui-icon lui-icon--break-association"
+    },
+    {
+        "name": "log out ",
+        "className": "lui-icon lui-icon--log-out"
+    },
+    {
+        "name": "log in ",
+        "className": "lui-icon lui-icon--log-in"
+    },
+    {
+        "name": "previous ",
+        "className": "lui-icon lui-icon--previous"
+    },
+    {
+        "name": "more rounded ",
+        "className": "lui-icon lui-icon--more-rounded"
+    },
+    {
+        "name": "mashup ",
+        "className": "lui-icon lui-icon--mashup"
+    },
+    {
+        "name": "widget ",
+        "className": "lui-icon lui-icon--widget"
+    },
+    {
+        "name": "goto ",
+        "className": "lui-icon lui-icon--goto"
+    },
+    {
+        "name": "paperclip ",
+        "className": "lui-icon lui-icon--paperclip"
+    },
+    {
+        "name": "save ",
+        "className": "lui-icon lui-icon--save"
+    },
+    {
+        "name": "compass ",
+        "className": "lui-icon lui-icon--compass"
+    },
+    {
+        "name": "plugin ",
+        "className": "lui-icon lui-icon--plugin"
+    },
+    {
+        "name": "dimension collection ",
+        "className": "lui-icon lui-icon--dimension-collection"
+    },
+    {
+        "name": "transfer ",
+        "className": "lui-icon lui-icon--transfer"
+    },
+    {
+        "name": "analyze ",
+        "className": "lui-icon lui-icon--analyze"
+    },
+    {
+        "name": "direct discovery field ",
+        "className": "lui-icon lui-icon--direct-discovery-field"
+    },
+    {
+        "name": "setup file ",
+        "className": "lui-icon lui-icon--setup-file"
+    },
+    {
+        "name": "objects ",
+        "className": "lui-icon lui-icon--objects"
+    },
+    {
+        "name": "pause ",
+        "className": "lui-icon lui-icon--pause"
+    },
+    {
+        "name": "step over ",
+        "className": "lui-icon lui-icon--step-over"
+    },
+    {
+        "name": "collapse disclosure ",
+        "className": "lui-icon lui-icon--collapse-disclosure"
+    },
+    {
+        "name": "expand disclosure ",
+        "className": "lui-icon lui-icon--expand-disclosure"
+    },
+    {
+        "name": "default ",
+        "className": "lui-icon lui-icon--default"
+    },
+    {
+        "name": "idle ",
+        "className": "lui-icon lui-icon--idle"
+    },
+    {
+        "name": "configuration map ",
+        "className": "lui-icon lui-icon--configuration-map"
+    },
+    {
+        "name": "uninstall ",
+        "className": "lui-icon lui-icon--uninstall"
+    },
+    {
+        "name": "extract from source ",
+        "className": "lui-icon lui-icon--extract-from-source"
+    },
+    {
+        "name": "waiting field ",
+        "className": "lui-icon lui-icon--waiting-field"
+    },
+    {
+        "name": "waiting sheet ",
+        "className": "lui-icon lui-icon--waiting-sheet"
+    },
+    {
+        "name": "kpi object ",
+        "className": "lui-icon lui-icon--kpi-object"
+    },
+    {
+        "name": "disabled ",
+        "className": "lui-icon lui-icon--disabled"
+    },
+    {
+        "name": "variables ",
+        "className": "lui-icon lui-icon--variables"
+    },
+    {
+        "name": "controls ",
+        "className": "lui-icon lui-icon--controls"
+    },
+    {
+        "name": "directional arrow right ",
+        "className": "lui-icon lui-icon--directional-arrow-right"
+    },
+    {
+        "name": "directional arrow left ",
+        "className": "lui-icon lui-icon--directional-arrow-left"
+    },
+    {
+        "name": "hub oem ",
+        "className": "lui-icon lui-icon--hub-oem"
+    },
+    {
+        "name": "embed ",
+        "className": "lui-icon lui-icon--embed"
+    },
+    {
+        "name": "chart ",
+        "className": "lui-icon lui-icon--chart"
+    },
+    {
+        "name": "run ",
+        "className": "lui-icon lui-icon--run"
+    },
+    {
+        "name": "step in ",
+        "className": "lui-icon lui-icon--step-in"
+    },
+    {
+        "name": "stop ",
+        "className": "lui-icon lui-icon--stop"
+    },
+    {
+        "name": "comment ",
+        "className": "lui-icon lui-icon--comment"
+    },
+    {
+        "name": "indent ",
+        "className": "lui-icon lui-icon--indent"
+    },
+    {
+        "name": "undent ",
+        "className": "lui-icon lui-icon--undent"
+    },
+    {
+        "name": "cancel ",
+        "className": "lui-icon lui-icon--cancel"
+    },
+    {
+        "name": "insert ",
+        "className": "lui-icon lui-icon--insert"
+    },
+    {
+        "name": "boxplot ",
+        "className": "lui-icon lui-icon--boxplot"
+    },
+    {
+        "name": "distributionplot ",
+        "className": "lui-icon lui-icon--distributionplot"
+    },
+    {
+        "name": "histogram ",
+        "className": "lui-icon lui-icon--histogram"
+    },
+    {
+        "name": "direction left ",
+        "className": "lui-icon lui-icon--direction-left"
+    },
+    {
+        "name": "swap ",
+        "className": "lui-icon lui-icon--swap"
+    },
+    {
+        "name": "filter ",
+        "className": "lui-icon lui-icon--filter"
+    },
+    {
+        "name": "clear filter ",
+        "className": "lui-icon lui-icon--clear-filter"
+    },
+    {
+        "name": "bubbles ",
+        "className": "lui-icon lui-icon--bubbles"
+    },
+    {
+        "name": "clipboard ",
+        "className": "lui-icon lui-icon--clipboard"
+    },
+    {
+        "name": "server ",
+        "className": "lui-icon lui-icon--server"
+    },
+    {
+        "name": "hand ",
+        "className": "lui-icon lui-icon--hand"
+    },
+    {
+        "name": "flag ",
+        "className": "lui-icon lui-icon--flag"
+    },
+    {
+        "name": "external link ",
+        "className": "lui-icon lui-icon--external-link"
+    },
+    {
+        "name": "abort ",
+        "className": "lui-icon lui-icon--abort"
+    },
+    {
+        "name": "approve ",
+        "className": "lui-icon lui-icon--approve"
+    },
+    {
+        "name": "arrow down 2 ",
+        "className": "lui-icon lui-icon--arrow-down-2"
+    },
+    {
+        "name": "arrow up 2 ",
+        "className": "lui-icon lui-icon--arrow-up-2"
+    },
+    {
+        "name": "bars grouped ",
+        "className": "lui-icon lui-icon--bars-grouped"
+    },
+    {
+        "name": "bars horizontal ",
+        "className": "lui-icon lui-icon--bars-horizontal"
+    },
+    {
+        "name": "bars stacked ",
+        "className": "lui-icon lui-icon--bars-stacked"
+    },
+    {
+        "name": "bars vertical ",
+        "className": "lui-icon lui-icon--bars-vertical"
+    },
+    {
+        "name": "bookmark 2 ",
+        "className": "lui-icon lui-icon--bookmark-2"
+    },
+    {
+        "name": "brushes ",
+        "className": "lui-icon lui-icon--brushes"
+    },
+    {
+        "name": "bullet chart ",
+        "className": "lui-icon lui-icon--bullet-chart"
+    },
+    {
+        "name": "business logic ",
+        "className": "lui-icon lui-icon--business-logic"
+    },
+    {
+        "name": "chat ",
+        "className": "lui-icon lui-icon--chat"
+    },
+    {
+        "name": "checkbox indetermined ",
+        "className": "lui-icon lui-icon--checkbox-indetermined"
+    },
+    {
+        "name": "checkbox tick ",
+        "className": "lui-icon lui-icon--checkbox-tick"
+    },
+    {
+        "name": "clock 2 ",
+        "className": "lui-icon lui-icon--clock-2"
+    },
+    {
+        "name": "collapse 2 ",
+        "className": "lui-icon lui-icon--collapse-2"
+    },
+    {
+        "name": "collapse 3 ",
+        "className": "lui-icon lui-icon--collapse-3"
+    },
+    {
+        "name": "configuration ",
+        "className": "lui-icon lui-icon--configuration"
+    },
+    {
+        "name": "constraints ",
+        "className": "lui-icon lui-icon--constraints"
+    },
+    {
+        "name": "container ",
+        "className": "lui-icon lui-icon--container"
+    },
+    {
+        "name": "corner ",
+        "className": "lui-icon lui-icon--corner"
+    },
+    {
+        "name": "credit card ",
+        "className": "lui-icon lui-icon--credit-card"
+    },
+    {
+        "name": "cross ",
+        "className": "lui-icon lui-icon--cross"
+    },
+    {
+        "name": "crosshair ",
+        "className": "lui-icon lui-icon--crosshair"
+    },
+    {
+        "name": "cube ",
+        "className": "lui-icon lui-icon--cube"
+    },
+    {
+        "name": "data manager ",
+        "className": "lui-icon lui-icon--data-manager"
+    },
+    {
+        "name": "database arrow ",
+        "className": "lui-icon lui-icon--database-arrow"
+    },
+    {
+        "name": "deselect all ",
+        "className": "lui-icon lui-icon--deselect-all"
+    },
+    {
+        "name": "direction ",
+        "className": "lui-icon lui-icon--direction"
+    },
+    {
+        "name": "direction left right ",
+        "className": "lui-icon lui-icon--direction-left-right"
+    },
+    {
+        "name": "direction right ",
+        "className": "lui-icon lui-icon--direction-right"
+    },
+    {
+        "name": "direction up down ",
+        "className": "lui-icon lui-icon--direction-up-down"
+    },
+    {
+        "name": "dot ",
+        "className": "lui-icon lui-icon--dot"
+    },
+    {
+        "name": "drill down ",
+        "className": "lui-icon lui-icon--drill-down"
+    },
+    {
+        "name": "dropdown arrow ",
+        "className": "lui-icon lui-icon--dropdown-arrow"
+    },
+    {
+        "name": "dynamic object ",
+        "className": "lui-icon lui-icon--dynamic-object"
+    },
+    {
+        "name": "dynamic view ",
+        "className": "lui-icon lui-icon--dynamic-view"
+    },
+    {
+        "name": "edit list ",
+        "className": "lui-icon lui-icon--edit-list"
+    },
+    {
+        "name": "engine ",
+        "className": "lui-icon lui-icon--engine"
+    },
+    {
+        "name": "expand 2 ",
+        "className": "lui-icon lui-icon--expand-2"
+    },
+    {
+        "name": "file setup ",
+        "className": "lui-icon lui-icon--file-setup"
+    },
+    {
+        "name": "folder q ",
+        "className": "lui-icon lui-icon--folder-q"
+    },
+    {
+        "name": "funnel ",
+        "className": "lui-icon lui-icon--funnel"
+    },
+    {
+        "name": "gauge gauge ",
+        "className": "lui-icon lui-icon--gauge-gauge"
+    },
+    {
+        "name": "gauge vertical bar ",
+        "className": "lui-icon lui-icon--gauge-vertical-bar"
+    },
+    {
+        "name": "global selector ",
+        "className": "lui-icon lui-icon--global-selector"
+    },
+    {
+        "name": "globe ",
+        "className": "lui-icon lui-icon--globe"
+    },
+    {
+        "name": "grid chart ",
+        "className": "lui-icon lui-icon--grid-chart"
+    },
+    {
+        "name": "grid menu ",
+        "className": "lui-icon lui-icon--grid-menu"
+    },
+    {
+        "name": "grouped ",
+        "className": "lui-icon lui-icon--grouped"
+    },
+    {
+        "name": "hourglass ",
+        "className": "lui-icon lui-icon--hourglass"
+    },
+    {
+        "name": "hub logo ",
+        "className": "lui-icon lui-icon--hub-logo"
+    },
+    {
+        "name": "inbox ",
+        "className": "lui-icon lui-icon--inbox"
+    },
+    {
+        "name": "join ",
+        "className": "lui-icon lui-icon--join"
+    },
+    {
+        "name": "left right ",
+        "className": "lui-icon lui-icon--left-right"
+    },
+    {
+        "name": "license ",
+        "className": "lui-icon lui-icon--license"
+    },
+    {
+        "name": "lightbulb 2 ",
+        "className": "lui-icon lui-icon--lightbulb-2"
+    },
+    {
+        "name": "line chart area ",
+        "className": "lui-icon lui-icon--line-chart-area"
+    },
+    {
+        "name": "line chart line ",
+        "className": "lui-icon lui-icon--line-chart-line"
+    },
+    {
+        "name": "mail ",
+        "className": "lui-icon lui-icon--mail"
+    },
+    {
+        "name": "mail 2 ",
+        "className": "lui-icon lui-icon--mail-2"
+    },
+    {
+        "name": "marimekko ",
+        "className": "lui-icon lui-icon--marimekko"
+    },
+    {
+        "name": "megaphone ",
+        "className": "lui-icon lui-icon--megaphone"
+    },
+    {
+        "name": "microphone ",
+        "className": "lui-icon lui-icon--microphone"
+    },
+    {
+        "name": "minus 2 ",
+        "className": "lui-icon lui-icon--minus-2"
+    },
+    {
+        "name": "more vertical ",
+        "className": "lui-icon lui-icon--more-vertical"
+    },
+    {
+        "name": "network folder ",
+        "className": "lui-icon lui-icon--network-folder"
+    },
+    {
+        "name": "note ",
+        "className": "lui-icon lui-icon--note"
+    },
+    {
+        "name": "org chart ",
+        "className": "lui-icon lui-icon--org-chart"
+    },
+    {
+        "name": "pan ",
+        "className": "lui-icon lui-icon--pan"
+    },
+    {
+        "name": "pie chart donut ",
+        "className": "lui-icon lui-icon--pie-chart-donut"
+    },
+    {
+        "name": "pie chart pie ",
+        "className": "lui-icon lui-icon--pie-chart-pie"
+    },
+    {
+        "name": "play 2 ",
+        "className": "lui-icon lui-icon--play-2"
+    },
+    {
+        "name": "proxy ",
+        "className": "lui-icon lui-icon--proxy"
+    },
+    {
+        "name": "publish ",
+        "className": "lui-icon lui-icon--publish"
+    },
+    {
+        "name": "published to stream ",
+        "className": "lui-icon lui-icon--published-to-stream"
+    },
+    {
+        "name": "radial select ",
+        "className": "lui-icon lui-icon--radial-select"
+    },
+    {
+        "name": "radiobutton dot ",
+        "className": "lui-icon lui-icon--radiobutton-dot"
+    },
+    {
+        "name": "reset ",
+        "className": "lui-icon lui-icon--reset"
+    },
+    {
+        "name": "resizer ",
+        "className": "lui-icon lui-icon--resizer"
+    },
+    {
+        "name": "restricted ",
+        "className": "lui-icon lui-icon--restricted"
+    },
+    {
+        "name": "return ",
+        "className": "lui-icon lui-icon--return"
+    },
+    {
+        "name": "sankey ",
+        "className": "lui-icon lui-icon--sankey"
+    },
+    {
+        "name": "scale ratio ",
+        "className": "lui-icon lui-icon--scale-ratio"
+    },
+    {
+        "name": "schedule ",
+        "className": "lui-icon lui-icon--schedule"
+    },
+    {
+        "name": "selection search ",
+        "className": "lui-icon lui-icon--selection-search"
+    },
+    {
+        "name": "sheet ",
+        "className": "lui-icon lui-icon--sheet"
+    },
+    {
+        "name": "shield ",
+        "className": "lui-icon lui-icon--shield"
+    },
+    {
+        "name": "sign post ",
+        "className": "lui-icon lui-icon--sign-post"
+    },
+    {
+        "name": "slider ",
+        "className": "lui-icon lui-icon--slider"
+    },
+    {
+        "name": "smiley ",
+        "className": "lui-icon lui-icon--smiley"
+    },
+    {
+        "name": "space managed ",
+        "className": "lui-icon lui-icon--space-managed"
+    },
+    {
+        "name": "space shared ",
+        "className": "lui-icon lui-icon--space-shared"
+    },
+    {
+        "name": "stacked ",
+        "className": "lui-icon lui-icon--stacked"
+    },
+    {
+        "name": "strenght empty ",
+        "className": "lui-icon lui-icon--strenght-empty"
+    },
+    {
+        "name": "strenght high ",
+        "className": "lui-icon lui-icon--strenght-high"
+    },
+    {
+        "name": "strenght low ",
+        "className": "lui-icon lui-icon--strenght-low"
+    },
+    {
+        "name": "strenght medium ",
+        "className": "lui-icon lui-icon--strenght-medium"
+    },
+    {
+        "name": "table add ",
+        "className": "lui-icon lui-icon--table-add"
+    },
+    {
+        "name": "table connect ",
+        "className": "lui-icon lui-icon--table-connect"
+    },
+    {
+        "name": "table edit ",
+        "className": "lui-icon lui-icon--table-edit"
+    },
+    {
+        "name": "table ok ",
+        "className": "lui-icon lui-icon--table-ok"
+    },
+    {
+        "name": "tag 2 ",
+        "className": "lui-icon lui-icon--tag-2"
+    },
+    {
+        "name": "task chain ",
+        "className": "lui-icon lui-icon--task-chain"
+    },
+    {
+        "name": "team ",
+        "className": "lui-icon lui-icon--team"
+    },
+    {
+        "name": "templates ",
+        "className": "lui-icon lui-icon--templates"
+    },
+    {
+        "name": "toggle top ",
+        "className": "lui-icon lui-icon--toggle-top"
+    },
+    {
+        "name": "touch ",
+        "className": "lui-icon lui-icon--touch"
+    },
+    {
+        "name": "transform ",
+        "className": "lui-icon lui-icon--transform"
+    },
+    {
+        "name": "trellis chart ",
+        "className": "lui-icon lui-icon--trellis-chart"
+    },
+    {
+        "name": "type ",
+        "className": "lui-icon lui-icon--type"
+    },
+    {
+        "name": "unapprove ",
+        "className": "lui-icon lui-icon--unapprove"
+    },
+    {
+        "name": "unpublish ",
+        "className": "lui-icon lui-icon--unpublish"
+    },
+    {
+        "name": "video ",
+        "className": "lui-icon lui-icon--video"
+    },
+    {
+        "name": "view disabled ",
+        "className": "lui-icon lui-icon--view-disabled"
+    },
+    {
+        "name": "volume ",
+        "className": "lui-icon lui-icon--volume"
+    },
+    {
+        "name": "warning 2 ",
+        "className": "lui-icon lui-icon--warning-2"
+    },
+    {
+        "name": "warning triangle 2 ",
+        "className": "lui-icon lui-icon--warning-triangle-2"
+    },
+    {
+        "name": "small ",
+        "className": "lui-icon lui-icon--small"
+    },
+    {
+        "name": "large ",
+        "className": "lui-icon lui-icon--large"
+    },
+    {
+        "name": "info",
+        "className": "lui-icon lui-icon--"
+    },
+    {
+        "name": "lock",
+        "className": "lui-icon lui-icon--lock"
+    },
+    {
+        "name": "select alternative",
+        "className": "lui-icon lui-icon--select-alternative"
+    }
+]

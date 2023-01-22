@@ -1,6 +1,7 @@
 import {Box, CssBaseline} from '@mui/material'
-import {Header, SideBar} from '../components'
 import '../styles/App.css'
+import Header from './header'
+import SideBar from './sideBar'
 
 function App() {
  return (

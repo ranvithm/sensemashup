@@ -1,0 +1,231 @@
+{
+    "appName": "",
+    "userId": "",
+    "style": {
+        "backgroundColor": "",
+        "backgroundImage": "",
+        "fontFamily": ""
+    },
+    "properties": {
+        "header": {
+            "backgroundColor": "",
+            "children": [
+                {
+                    "type": "image",
+                    "value": "",
+                    "height": "",
+                    "width": "",
+                    "x": "",
+                    "y": "",
+                    "style": {
+                        "backgroundColor": "",
+                        "alignment": "",
+                        "justifyContent": "",
+                        "padding": ""
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "height": "",
+                    "width": "",
+                    "x": "",
+                    "y": "",
+                    "style": {
+                        "backgroundColor": "",
+                        "alignment": "",
+                        "justifyContent": "",
+                        "padding": "",
+                        "fontSize": "",
+                        "fontWeight": "",
+                        "color": ""
+                    }
+                },
+                {
+                    "type": "appBar-menu",
+                    "value": "qlikUser",
+                    "height": "",
+                    "width": "",
+                    "x": "",
+                    "y": "",
+                    "isIcon": false,
+                    "enableLockOut": false,
+                    "enableDarkMode": false,
+                    "fromQlik": true,
+                    "style": {
+                        "backgroundColor": "",
+                        "alignment": "",
+                        "justifyContent": "",
+                        "padding": "",
+                        "fontSize": "",
+                        "fontWeight": "",
+                        "color": ""
+                    }
+                }
+            ]
+        },
+        "menu": {
+            "backgroundColor": "",
+            "position": "left",
+            "color": "",
+            "fontSize": "",
+            "fontWeight": "",
+            "activeBgColor": "",
+            "activeColor": "",
+            "children": [
+                {
+                    "name": "",
+                    "id": "",
+                    "icon": "",
+                    "children": [
+                        {
+                            "name": "",
+                            "id": "",
+                            "icon": ""
+                        },
+                        {
+                            "name": "",
+                            "id": "",
+                            "icon": ""
+                        },
+                        {
+                            "name": "",
+                            "id": "",
+                            "icon": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "",
+                    "id": "",
+                    "icon": "",
+                    "children": [
+                        {
+                            "name": "",
+                            "id": "",
+                            "icon": ""
+                        },
+                        {
+                            "name": "",
+                            "id": "",
+                            "icon": ""
+                        },
+                        {
+                            "name": "",
+                            "id": "",
+                            "icon": ""
+                        },
+                        {
+                            "name": "",
+                            "id": "",
+                            "icon": ""
+                        },
+                        {
+                            "name": "",
+                            "id": "",
+                            "icon": ""
+                        },
+                        {
+                            "name": "",
+                            "id": "",
+                            "icon": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "content": [
+            {
+                "menuId": "",
+                "children": [
+                    {
+                        "type": "currentSelections",
+                        "value": "",
+                        "height": "",
+                        "width": "",
+                        "x": "",
+                        "y": "",
+                        "style": {
+                            "backgroundColor": "",
+                            "alignment": "",
+                            "justifyContent": "",
+                            "padding": ""
+                        }
+                    },
+                    {
+                        "type": "image",
+                        "value": "",
+                        "height": "",
+                        "width": "",
+                        "x": "",
+                        "y": "",
+                        "style": {
+                            "backgroundColor": "",
+                            "alignment": "",
+                            "justifyContent": "",
+                            "padding": ""
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "value": "",
+                        "height": "",
+                        "width": "",
+                        "x": "",
+                        "y": "",
+                        "style": {
+                            "backgroundColor": "",
+                            "alignment": "",
+                            "justifyContent": "",
+                            "padding": "",
+                            "fontSize": "",
+                            "fontWeight": "",
+                            "color": ""
+                        }
+                    },
+                    {
+                        "type": "object",
+                        "value": "",
+                        "height": "",
+                        "width": "",
+                        "x": "",
+                        "y": "",
+                        "style": {
+                            "backgroundColor": "",
+                            "alignment": "",
+                            "justifyContent": "",
+                            "padding": ""
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "component for tools": [
+        "accordion",
+        "icon",
+        "grid",
+        "input",
+        "buttongrp",
+        "color"
+    ],
+    "component for webpage": [
+        "menuBar",
+        "headerMenu",
+        "header",
+        "sidebar",
+        "grid",
+        "text",
+        "image",
+        "divider",
+        "reportChoose",
+        "kpi"
+    ],
+    "component": [
+        "basic",
+        "form",
+        "Advance",
+        "Qlik"
+    ],
+    "tool component":["input", "select", "input Group", "btn grp"]
+}

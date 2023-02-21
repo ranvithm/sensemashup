@@ -1,1 +1,0 @@
-# Mashup builder for QlikSense App

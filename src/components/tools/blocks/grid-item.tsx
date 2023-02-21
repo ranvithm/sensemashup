@@ -4,11 +4,7 @@ import IGridItem from '../../../types/grid-item'
 
 const GridItem: React.FC<IGridItem> = (props) => {
  const {children} = props
- return (
-  <Grid item >
-   {children}
-  </Grid>
- )
+ return <Grid item>{children}</Grid>
 }
 
 export default GridItem

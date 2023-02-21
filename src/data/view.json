@@ -218,8 +218,8 @@
         "text",
         "image",
         "divider",
-        "reportChoose",
-        "kpi"
+        "qlik object choosing modal",
+        "qlik KPI (measure, variable, expression) choosing modal"
     ],
     "component": [
         "basic",
@@ -227,5 +227,24 @@
         "Advance",
         "Qlik"
     ],
-    "tool component":["input", "select", "input Group", "btn grp"]
+    "tool component":["input", "select", "input Group", "btn grp"],
+
+    "layout":"",
+    "typography":"",
+    "background":"",
+    "margin & Padding": "",
+    "options":"",
+
+    "logo":true,
+    "preview": "",
+    "export": true,
+    "import": "",
+    "userMenu": "",
+
+    "login": "",
+    "signup":"",
+    "forgotPassword":"",
+    "resetPassword":"",
+    "userprofile":"",
+    "data to be store local storage": "beforeunload"
 }

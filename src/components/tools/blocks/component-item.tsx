@@ -3,7 +3,7 @@ import {Button, Typography} from '@mui/material'
 import {fas} from '@fortawesome/free-solid-svg-icons'
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import GridItem from './grid-item'
-import IComponentItem from '../types/component-item'
+import IComponentItem from '../../../types/component-item'
 
 const ComponentItem: React.FC<IComponentItem> = (props) => {
  const {name, icon} = props

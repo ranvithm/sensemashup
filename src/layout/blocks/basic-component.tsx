@@ -1,5 +1,5 @@
 import {Grid} from '@mui/material'
-import ComponentItem from '../lib/component-item'
+import ComponentItem from '../../components/tools/blocks/component-item'
 
 const BasicComponent = () => {
  return (

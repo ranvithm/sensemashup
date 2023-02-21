@@ -50,6 +50,16 @@ const theme = createTheme({
     root: {},
    },
   },
+  MuiButton: {
+   styleOverrides: {
+    root: {
+     '&.Mui-disabled': {
+      color: 'inherit',
+      fontSize: '9px',
+     },
+    },
+   },
+  },
  },
 })
 
